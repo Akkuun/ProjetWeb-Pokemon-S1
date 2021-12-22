@@ -1,0 +1,174 @@
+html {
+    background-image: url("../res/img/ethernum-wallpaper.jpg");
+    background-size: cover;
+    scroll-behavior: smooth;
+    /*background-color: rgb(53,56,57);*/
+}
+
+/*
+Default
+*/
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/*
+Header
+*/
+
+header {
+    background-color: rgb(36, 37, 32);
+    font-family: "Aladin", "Calibri", sans-serif;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 128px;
+    /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
+    color: white;
+}
+
+header > img {
+    width: 96px;
+    height: 96px;
+}
+
+header > * {
+    margin: auto 32px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    font-family: "Calibri", sans-serif;
+    margin: auto 0 0 auto;
+}
+
+nav > a > div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 16px 32px;
+}
+
+nav div > div {
+    visibility: hidden;
+    text-align: center;
+}
+
+.sub-menu {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    top: 140px;
+}
+
+/*
+Main
+*/
+
+#social {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    right: -46px;
+    top: 35%;
+}
+
+#social > div {
+    background-color: white;
+    border: black 3px solid;
+    box-shadow: black 1px 1px 8px 1px;
+    padding: 4px;
+}
+
+#social > div:first-child {
+    border-right: 0;
+}
+
+#social > div:last-child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+}
+
+#social > div:last-child > img {
+    width: 32px;
+    height: auto;
+    margin: 4px auto;
+}
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Calibri", sans-serif;
+    background-color: white;
+    border: black 3px solid;
+    font-size: 17px;
+    text-align: justify;
+    width: 80%;
+    height: auto;
+    margin: 64px 5%;
+    padding: 16px;
+}
+
+.article > * {
+    width: 45%;
+    height: auto;
+}
+
+.text > h3 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.single > .text {
+    width: 90%;
+}
+
+#up {
+    position: fixed;
+    background-color: white;
+    border: black 3px solid;
+    border-radius: 128px;
+    height: 32px;
+    width: auto;
+    right: -96px;
+    bottom: 32px;
+}
+
+/*
+Footer
+*/
+
+/*
+Medias
+*/
+
+@media all {
+
+}
+
+/*
+Fonts registering
+*/
+
+@font-face {
+    src: url("../res/font/Aladin-Regular.ttf");
+    font-family: "Aladin";
+}
