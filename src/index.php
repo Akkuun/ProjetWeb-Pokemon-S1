@@ -11,10 +11,18 @@
 <?php
 include("header.html");
 include("social.html");
-include("top_button.html");
 ?>
+
+<main>
+    <div id="--">
+        <?php include('res/txt/-.txt'); ?>
+    </div>
+</main>
+
+<?php include("top_button.html"); ?>
 <footer>
 
 </footer>
+
 </body>
 </html>

@@ -8,8 +8,10 @@
     <script src="js/script.js"></script>
 </head>
 <body>
-<?php include("header.html"); ?>
-<?php include("social.html"); ?>
+<?php
+include("header.html");
+include("social.html");
+?>
 <main>
     <div id="content">
         <div class="article single">
