@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="fr" id="html">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" content="width=device-width, initial-scale=1" name="viewport">
     <title>Les NFT</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
     <script src="js/script.js"></script>
 </head>
 <body>
-<?php
-include("header.html");
-include("social.html");
-?>
+<header>
+    <?php include("header.html"); ?>
+</header>
 <main>
+    <?php include("social.html"); ?>
     <div id="content">
         <div class="article single">
             <div class="text">
@@ -20,13 +20,12 @@ include("social.html");
                 <p>Quand on évoque le mot « crypto-monnaie », on pense tout de suite au Bitcoin. Mais en réalité, le
                     bitcoin est loin d’avoir été la première cryptomonnaie ayant fait son apparition, car d’autres
                     monnaies ont été déployées telles que le DigiCash, le CyperCash ou encore l’E-Gold.
-                    <br>
+                    <br><br>
                     Les cryptomonnaies ont été popularisées grâce à l’apparition du Bitcoin et par son créateur Satoshi
                     Nakamoto en octobre 2008. Il a également publié un livre expliquant de manière concise le
                     fonctionnement du
                     Bitcoin.</p>
             </div>
-            <img src="" alt=""/>
         </div>
 
         <div class="article">
@@ -79,8 +78,8 @@ include("social.html");
             <img src="" alt=""/>
         </div>
     </div>
+    <?php include("top_button.html"); ?>
 </main>
-<?php include("top_button.html"); ?>
 <footer>
 
 </footer>

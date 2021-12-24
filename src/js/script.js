@@ -1,7 +1,7 @@
 $(document).ready(function() {
     menu();
     social();
-    bump("#up")
+    bump("#up");
 
     $(window).scroll(function() {
         if($(window).scrollTop() === 0) {
@@ -9,6 +9,8 @@ $(document).ready(function() {
         } else {
             slideShow("#up");
         }
+    }).resize(function() {
+        
     });
 });
 
@@ -31,6 +33,9 @@ function social() {
             $(this)
                 .children("img")
                 .attr("src", "res/img/double_right.png");
+            $("#social > div:last-child")
+                .css("box-shadow", "black 1px 1px 8px 1px")
+                .css("transition-duration", ".5s");
         } else if($(this).parents("#social").attr("class") === "social-open") {
             $("#social")
                 .css("right", "-46px")
@@ -40,6 +45,9 @@ function social() {
             $(this)
                 .children("img")
                 .attr("src", "res/img/double_left.png");
+            $("#social > div:last-child")
+                .css("box-shadow", "black 0 0 0 0")
+                .css("transition-duration", ".5s");
         }
     });
 }
@@ -64,10 +72,12 @@ function bump(field) {
     $(field).hover(function() {
         $(this)
             .css("bottom", "40px")
+            .css("box-shadow", "0 0 10px 5px")
             .css("transition-duration", ".1s");
     }).mouseleave(function() {
         $(this)
             .css("bottom", "32px")
+            .css("box-shadow", "0 0 0 0")
             .css("transition-duration", ".1s");
     });
 }
@@ -82,4 +92,19 @@ function slideShow(field) {
     $(field)
         .css("right", "32px")
         .css("transition-duration", ".5s");
+}
+
+function wrapped() {
+    let offset_top_prev;
+
+    $(".article").each(function() {
+        const offset_top = $(this).offset().top;
+
+        if(offset_top > offset_top_prev) {
+            $(this).addClass("wrapped");
+        } else if(offset_top === offset_top_prev) {
+            $(this).removeClass("wrapped");
+        }
+        offset_top_prev = offset_top;
+    });
 }

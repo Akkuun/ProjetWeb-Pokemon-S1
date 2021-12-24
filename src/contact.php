@@ -8,11 +8,11 @@
     <script src="js/script.js"></script>
 </head>
 <body>
-<?php
-include("header.html");
-include("social.html");
-?>
+<header>
+    <?php include("header.html"); ?>
+</header>
 <main>
+    <?php include("social.html"); ?>
     <div class="formulary">
         <form action="">
             <label> Nom et Prémom
@@ -43,10 +43,8 @@ include("social.html");
             <input type="submit">
         </form>
     </div>
+    <?php include("top_button.html"); ?>
 </main>
-<?php
-include("top_button.html");
-?>
 <footer>
 
 </footer>

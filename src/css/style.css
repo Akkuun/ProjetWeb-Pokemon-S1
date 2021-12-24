@@ -5,6 +5,10 @@ html {
     /*background-color: rgb(53,56,57);*/
 }
 
+body {
+    margin: 0;
+}
+
 /*
 Default
 */
@@ -89,11 +93,11 @@ Main
 #social > div {
     background-color: white;
     border: black 3px solid;
-    box-shadow: black 1px 1px 8px 1px;
     padding: 4px;
 }
 
 #social > div:first-child {
+    box-shadow: black 1px 1px 8px 1px;
     border-right: 0;
 }
 
@@ -113,12 +117,14 @@ Main
 
 .article {
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     align-items: center;
     justify-content: space-around;
     font-family: "Calibri", sans-serif;
     background-color: white;
-    border: black 3px solid;
+    /*background-color: #F0FFFF;*/
+    border: black 4px solid;
+    border-radius: 24px 48px;
     font-size: 17px;
     text-align: justify;
     width: 80%;
@@ -128,8 +134,17 @@ Main
 }
 
 .article > * {
+    margin: auto 8px;
+}
+
+.article > .text {
     width: 45%;
     height: auto;
+}
+
+.article > img {
+    width: auto;
+    height: 256px;
 }
 
 .text > h3 {
@@ -141,12 +156,16 @@ Main
     width: 90%;
 }
 
+.wrapped {
+    width: 95%;
+}
+
 #up {
     position: fixed;
     background-color: white;
-    border: black 3px solid;
+    border: black 4px solid;
     border-radius: 128px;
-    height: 32px;
+    height: 48px;
     width: auto;
     right: -96px;
     bottom: 32px;
@@ -163,9 +182,8 @@ Formulary
 .formulary {
     background-color: white;
     border: black 2px solid;
-    font-family: "Aladin", "Calibri", sans-serif;
+    font-family: "Calibri", sans-serif;
     display: flex;
-    flex-grow: 3;
     margin: 32px 10% 32px 10%;
     padding: 16px;
     width: auto;
@@ -178,34 +196,50 @@ form {
 }
 
 .formulary label {
-    flex-shrink: 1;
     margin: 8px 8px;
-}
-
-.formulary > label {
-    flex-shrink: 2;
-    grid-column: 1 / 2;
-}
-
-.formulary > input {
-    grid-column: 3 / 4;
 }
 
 /*
 Medias
 */
 
-@media all and(min-width: 890px) {
+@media screen and (max-width: 1024px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav > a > div {
+        padding: 8px 32px;
+    }
+
     .article {
-        display: flex;
-        flex-direction: row;
+        flex-direction: column;
+    }
+
+    .article .text, .single .text {
+        width: 95%;
     }
 }
 
-@media all and(max-width: 890px) {
+@media screen and (min-width: 1024px) {
+    nav {
+        flex-direction: row;
+    }
+
+    nav > a > div {
+        padding: 16px 32px;
+    }
+
     .article {
-        display: flex;
-        flex-direction: column;
+        flex-direction: row;
+    }
+
+    .article .text {
+        width: 45%;
+    }
+
+    .single .text {
+        width: 95%;
     }
 }
 
