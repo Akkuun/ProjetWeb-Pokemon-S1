@@ -61,6 +61,7 @@
         </div>
 
         <div class="article">
+            <img src="res/img/cryptomoney.webp" alt="Cyptomonnaies"/>
             <div class="text">
                 <h3>Les principales cryptomonnaies :</h3>
                 <ul>
@@ -76,7 +77,7 @@
                     <li>Solana</li>
                 </ul>
             </div>
-            <img src="" alt=""/>
+            <img src="res/img/top-cryptomoney.jpg" alt="Les cryptomonnaies les plus populaires"/>
         </div>
 
         <div id="a-blockchain" class="article">

@@ -77,12 +77,12 @@ function bump(field) {
     $(field).hover(function() {
         $(this)
             .css("bottom", "40px")
-            .css("box-shadow", "0 0 10px 5px")
+            .css("box-shadow", "white 0 0 10px 5px")
             .css("transition-duration", ".1s");
     }).mouseleave(function() {
         $(this)
             .css("bottom", "32px")
-            .css("box-shadow", "0 0 0 0")
+            .css("box-shadow", "white 0 0 0 0")
             .css("transition-duration", ".1s");
     });
 }
