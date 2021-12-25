@@ -37,7 +37,7 @@
                     pièces ou des billets et n’ont aucune indexation à la différence des monnaies universelles comme
                     l’euro ou le dollar.
                     <br><br>
-                    Ce type de monnaie utilise la technologie du Blockchain (lien vers l’article du Blockchain) à pour
+                    Ce type de monnaie utilise la technologie du <a href="#a-blockchain">Blockchain</a> à pour
                     transférer des fonds sur Internet. En revanche, les cryptomonnaies possédant une valeur trop
                     volatile, ne sont pas reconnu par le gouvernement français, car elles peuvent du jour au lendemain
                     valoir des millions et à l’inverse, équivaloir à seulement quelques centimes d’euros.</p>
@@ -77,6 +77,21 @@
                 </ul>
             </div>
             <img src="" alt=""/>
+        </div>
+
+        <div id="a-blockchain" class="article">
+            <div class="text">
+                <h3>Qu’est-ce que le Blockchain ?</h3>
+                <p>Le Blockchain est une géante base de données très sécurisée permettant de stocker et d’échanger de la
+                    valeur sur internet sans intermédiaire centralisé. Elle contient tout l’historique de tous les
+                    échanges effectués entre ses utilisateurs depuis son déploiement jusqu’à aujourd’hui. Le Blockchain
+                    est connu pour être le moteur et le cœur de l’industrie des cryptomonnaies dans le monde.
+                    <br><br>
+                    On peut dire que le Blockchain est une sorte de grand livre comptable public, anonyme et surtout
+                    infalsifiable. Tout ce qu’il se passe autour de ce monstre est sauvegardé à l’intérieur, là où rien
+                    ne peut être effacé. Ainsi la contrefaçon se voit impuissante.</p>
+            </div>
+            <img src="res/img/blockchain.jpg" alt="Blockchain"/>
         </div>
     </div>
     <?php include("top_button.html"); ?>
