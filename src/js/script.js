@@ -9,6 +9,9 @@ $(document).ready(function() {
         } else {
             slideShow("#up");
         }
+        if($(window).scrollTop() >= 128) {
+            displayMiniHeader();
+        }
     }).resize(function() {
         
     });
@@ -107,4 +110,8 @@ function wrapped() {
         }
         offset_top_prev = offset_top;
     });
+}
+
+function displayMiniHeader() {
+
 }

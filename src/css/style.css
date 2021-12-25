@@ -123,7 +123,7 @@ Main
     font-family: "Calibri", sans-serif;
     background-color: white;
     /*background-color: #F0FFFF;*/
-    border: black 4px solid;
+    border: #444 4px groove;
     border-radius: 24px 48px;
     font-size: 17px;
     text-align: justify;
