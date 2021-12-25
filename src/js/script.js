@@ -11,6 +11,8 @@ $(document).ready(function() {
         }
         if($(window).scrollTop() >= 128) {
             displayMiniHeader();
+        } else {
+            hideMiniHeader();
         }
     }).resize(function() {
         
@@ -113,5 +115,13 @@ function wrapped() {
 }
 
 function displayMiniHeader() {
+    $("#mini_header")
+        .css("top", "0")
+        .css("transition-duration", ".2s");
+}
 
+function hideMiniHeader() {
+    $("#mini_header")
+        .css("top", "-128px")
+        .css("transition-duration", ".2s");
 }

@@ -27,7 +27,7 @@ a:visited {
 Header
 */
 
-header {
+#header {
     background-color: rgb(36, 37, 32);
     font-family: "Aladin", "Calibri", sans-serif;
     display: flex;
@@ -38,23 +38,23 @@ header {
     color: white;
 }
 
-header > img {
+#header > img {
     width: 96px;
     height: 96px;
 }
 
-header > * {
+#header > * {
     margin: auto 32px;
 }
 
-nav {
+#header > nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
     margin: auto 0 0 auto;
 }
 
-nav > a > div {
+#header > nav > a > div {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -65,17 +65,44 @@ nav > a > div {
     padding: 16px 32px;
 }
 
-nav div > div {
-    visibility: hidden;
-    text-align: center;
+#mini_header {
+    position: fixed;
+    background-color: rgb(36, 37, 32);
+    font-family: "Aladin", "Calibri", sans-serif;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 0;
+    width: 100%;
+    height: 64px;
+    top: -128px;
 }
 
-.sub-menu {
-    position: absolute;
+#mini_header > img {
+    width: 48px;
+    height: 48px;
+}
+
+#mini_header > * {
+    margin: auto 16px;
+}
+
+#mini_header > nav {
+    display: flex;
+    flex-direction: row;
+    font-family: "Calibri", sans-serif;
+    margin: auto 0 0 auto;
+}
+
+#mini_header > nav > a > div {
     display: flex;
     flex-direction: column;
-    visibility: hidden;
-    top: 140px;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 16px 32px;
 }
 
 /*
