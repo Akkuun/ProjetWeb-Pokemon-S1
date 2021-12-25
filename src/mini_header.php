@@ -9,18 +9,7 @@
     <img id="logo" src="res/img/umontpellier.png" alt="Université de Montpellier"/>
     <h1>Le marché de l'art, une nouvelle passion ?</h1>
     <nav>
-        <a href="index.php">
-            <div>Accueil</div>
-        </a>
-        <a href="cryptomoney.php">
-            <div>Crypto</div>
-        </a>
-        <a href="contact.php">
-            <div>Contact</div>
-        </a>
-        <a>
-            <div>Sources</div>
-        </a>
+        <?php include("menu.html"); ?>
     </nav>
 </div>
 </body>

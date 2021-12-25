@@ -117,11 +117,13 @@ function wrapped() {
 function displayMiniHeader() {
     $("#mini_header")
         .css("top", "0")
+        .css("visibility", "visible")
         .css("transition-duration", ".2s");
 }
 
 function hideMiniHeader() {
     $("#mini_header")
         .css("top", "-128px")
+        .css("visibility", "hidden")
         .css("transition-duration", ".2s");
 }

@@ -13,12 +13,12 @@ body {
 Default
 */
 
-header a {
+#header a, #mini_header a, #footer a {
     color: white;
     text-decoration: none;
 }
 
-header a:visited {
+#header a:visited, #mini_header a:visited, #footer a:visited {
     color: white;
     text-decoration: none;
 }
@@ -71,8 +71,8 @@ Header
     font-family: "Aladin", "Calibri", sans-serif;
     display: flex;
     flex-direction: row;
+    visibility: hidden;
     color: white;
-    margin: 0;
     width: 100%;
     height: 64px;
     top: -128px;
@@ -103,6 +103,23 @@ Header
     width: auto;
     height: auto;
     padding: 16px 32px;
+}
+
+#footer {
+    background-color: rgb(36, 37, 32);
+    font-family: "Aladin", "Calibri", sans-serif;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    width: 100%;
+    height: 64px;
+}
+
+#footer > nav {
+    display: flex;
+    flex-direction: row;
+    font-family: "Calibri", sans-serif;
+    margin: auto auto 0 0;
 }
 
 /*

@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-    <?php include("header.html"); ?>
+    <?php include("header.php"); ?>
 </header>
 <main>
     <?php include("social.html"); ?>

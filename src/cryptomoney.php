@@ -9,9 +9,9 @@
 </head>
 <body>
 <header>
-    <?php include("header.html"); ?>
+    <?php include("header.php"); ?>
 </header>
-<?php include("mini_header.html"); ?>
+<?php include("mini_header.php"); ?>
 <main>
     <?php include("social.html"); ?>
     <div id="content">
@@ -93,11 +93,78 @@
             </div>
             <img src="res/img/blockchain.jpg" alt="Blockchain"/>
         </div>
+
+        <div class="article single">
+            <div class="text">
+                <h3>Comment est né le Blockchain ?</h3>
+                <p>Le Blockchain a fait sa première apparition en 2008 avec la première monnaie numérique populaire de
+                    l’époque, le Bitcoin. Ces deux inventions ont été construites ensemble pour fonctionner ensemble. En
+                    revanche, le Blockchain supporte un nombre important de cryptomonnaies désormais.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <img src="res/img/blockchain-mode-d-emploi.png" alt="Blockchain mode d'emploi"/>
+            <div class="text">
+                <h3>Comment fonctionne concrètement le Blockchain ?</h3>
+                <p>Tout Blockchain public fonctionne nécessairement avec une monnaie ou un token programmable. Le
+                    Bitcoin en fait partie. Les transactions effectuées par les utilisateurs sont regroupées par blocs
+                    eux-mêmes validés par des nœuds réseau.
+                    <br><br>
+                    Une fois le bloc validé, la transaction devient visible pour l’utilisateur ainsi que pour le
+                    l’ensemble du réseau. Le temps d’une transaction varie selon la cryptomonnaie qu’elle utilise. On
+                    compte une dizaine de minutes pour le Bitcoin tandis que d’autres monnaies telles que l’Ethereum
+                    sont transférées en quelques secondes.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <div class="text">
+                <p>« just setting up my twttr » : Il s’agit du tout premier tweet posté sur la plateforme Twitter le 21
+                    mars 2006. Il a été mis en vente aux enchères par Jack Dorsey, le créateur de Twitter lui-même et la
+                    meilleure offre qui lui a été proposée ont été la somme de 2.5 millions de dollars.
+                    <br><br>
+                    Depuis le début du mois de mars 2021, le marché des NFT prend une ampleur extrême avec certaines
+                    œuvres vendues jusqu’à une valeur de plus de 6 millions de dollars.</p>
+            </div>
+            <img src="res/img/first_tweet.jpg" alt="Premier tweet de Twitter"/>
+        </div>
+
+        <div class="article">
+            <img src="res/img/nft.jpeg" alt="NFT"/>
+            <div class="text">
+                <h3>Qu’est-ce que le NFT ?</h3>
+                <p>Les NTF ou « Non-Fungitable Token » (en anglais, « jeton non échangeable ») font partie des
+                    nombreuses cryptomonnaies existantes dans l’industrie des cryptomonnaies. Ce type de monnaie est
+                    centralisé dans le plus gros serveur dédier aux cryptomonnaies : le Blockchain.
+                    <br><br>
+                    Les NFT sont beaucoup utilisés pour l’identification des images sur Internet, car certes, il est
+                    possible de télécharger des images sur le Web, mais la possession d’un NFT certifie que l’image ou
+                    le quelconque média vous appartient.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <div class="text">
+                <h3>À quoi servent concrètement les NFT ?</h3>
+                <p>Les NFT ont été créés pour d’authentifier vos créations sur Internet même si les créateurs se servent
+                    de cette technologie pour vendre leur création et œuvre d’art afin de créer un réel marché de l’art
+                    en ligne.
+                    <br><br>
+                    C’est à cause de ce mouvement que certains artistes ce sont mettre leur œuvre en ventes sur ce
+                    marché de l’art en ligne plutôt qu’ailleurs. Cela attire les collectionneurs qui sont prêts payer
+                    plusieurs milliers de dollars NFT afin de posséder tout un kit de collection unique sur ce marché.
+                </p>
+                <em>L’intérêt artistique peut paraître obscur. Mais après tout, qu’est-ce que l’art ? Vous avez quatre
+                    heures.</em>
+            </div>
+            <img src="res/img/topsales.png" alt="Meilleur vente de NFT CryptoPunk"/>
+        </div>
     </div>
     <?php include("top_button.html"); ?>
 </main>
-<footer>
-
+<footer id="footer">
+    <?php include("footer.php"); ?>
 </footer>
 </body>
 </html>
