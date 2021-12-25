@@ -116,7 +116,7 @@
                 avec le Youtuber Michou qui a obtenu un record du monde sur l'obtention de 14 cartes super rare dans une
                 display.</p>
         </div>
-        <img alt="logo company" src="res/img/logan.jpg" id=""/>
+        <img alt="logo company" src="res/img/logan.jpg" id="logan"/>
     </div>
 
     <div class="article">

@@ -308,3 +308,11 @@ Extras
     width: 365px;
     height: 330px;
 }
+#display{
+    height: 60%;
+    width: 60%;
+}
+#pca{
+    height: 40%;
+    width: 40%;
+}
