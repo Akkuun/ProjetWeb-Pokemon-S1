@@ -8,12 +8,8 @@
     <script src="js/script.js"></script>
 </head>
 <body>
-<div id="header">
-    <img id="logo" src="res/img/umontpellier.png" alt="Université de Montpellier"/>
-    <h1>Le marché de l'art, une nouvelle passion ?</h1>
-    <nav>
-        <?php include("menu.html"); ?>
-    </nav>
-</div>
+<img id="logo" src="res/img/umontpellier.png" alt="Université de Montpellier"/>
+<h1>Le marché de l'art, une nouvelle passion ?</h1>
+<?php include("menu.html"); ?>
 </body>
 </html>

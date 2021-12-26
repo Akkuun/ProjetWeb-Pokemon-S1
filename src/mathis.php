@@ -13,12 +13,14 @@
 </header>
 <?php include("mini_header.php"); ?>
 <main>
+    <?php include("social.html"); ?>
+
     <div class="article">
         <div class="text">
             <h3>Comment les cartes Pokémon sont devenu si populaires?</h3>
-            <p>A première vue, lorsque nous parlons du marché de l'art et des cartes Pokémon, ces deux mondes ne devraient
-                ne rien avoir en commun, et pourtant. Ce "marché" est une véritable institution et possède de nombreuses
-                caractéristiques qui sont propres à ses œuvres.
+            <p>A première vue, lorsque nous parlons du marché de l'art et des cartes Pokémon, ces deux mondes ne
+                devraient ne rien avoir en commun, et pourtant. Ce "marché" est une véritable institution et possède de
+                nombreuses caractéristiques qui sont propres à ses œuvres.
                 <br><br>
                 De base les cartes Pokémon sont simplement des cartes à échanger et à collectionner vendu par la société
                 Pokémon destiné à être utilisées dans des parties 2 joueurs dans lequel le but est de remplir au moins
@@ -69,12 +71,14 @@
                 Tout d'abord il existe des cartes qui sont moins trouvables que les autres dans une série de cartes
                 particulières ce qui signifie qu'il y a une vraie notion de temporalité dans ces cartes à l'instar des
                 œuvres d'art qui prennent de la valeur en fonction du mouvement et de l'époque de conception. Le temps
-                est vraiment une notion importante, car le retour de l'engouement de Pokémon va revenir grâce à la valeur
+                est vraiment une notion importante, car le retour de l'engouement de Pokémon va revenir grâce à la
+                valeur
                 des cartes de première édition (1996) qui vont voir leurs prix exploser.
                 <br><br>
                 Les cartes peuvent se vendre dans leurs paquets d'origine appelée booster ou display sous blister (ce
                 qui signifie qu'elle n'a pas été ouverte et son encore dans leur état d'origine de sortie de
-                fabrication d'usine). Si les booster n'est plus sous blister, ils vont perdent de leurs valeurs car elles
+                fabrication d'usine). Si les booster n'est plus sous blister, ils vont perdent de leurs valeurs car
+                elles
                 sont plus intactes à 100%.</p>
         </div>
 
@@ -124,7 +128,8 @@
             <h3>Conséquence</h3>
             <p>Tous ces éléments ont su redonner à Pokémon sa flamme d'antan et a fait considérablement sa nouvelle
                 renommée. Depuis ces coups de communication et leurs nouveaux business les prix se sont envolés à cause
-                de la demande extrême du public ainsi que le nombre de recherches sur Google pour le terme "Pokémon". Les
+                de la demande extrême du public ainsi que le nombre de recherches sur Google pour le terme "Pokémon".
+                Les
                 influenceurs ont su démontrer qu'ils étaient acteurs importants pour gérer un marché qui bouge sans
                 cesse.
                 <br><br>
@@ -138,7 +143,7 @@
     <?php include("top_button.html"); ?>
 </main>
 <footer>
-
+    <?php include("footer.php"); ?>
 </footer>
 </body>
 </html>

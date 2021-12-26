@@ -5,8 +5,9 @@
     <title>Title</title>
 </head>
 <body>
-<nav>
+<div>
     <?php include("menu.html"); ?>
-</nav>
+    <p>&copy;</p>
+</div>
 </body>
 </html>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="fr" id="#html">
+<html lang="fr" id="html">
 <head>
     <meta charset="UTF-8" content="width=device-width, initial-scale=1" name="viewport">
-    <title>Le marché de l'art</title>
+    <title>Les NFT</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
     <script src="js/script.js"></script>
@@ -12,14 +12,9 @@
     <?php include("header.php"); ?>
 </header>
 <main>
-    <?php include("social.html"); ?>
-    <div id="--">
-        <?php include('res/txt/-.txt'); ?>
-    </div>
-    <div style="height: 521px"></div>
+    <?php include("mini_header.php"); ?>
+    <?php include("top_button.html"); ?>
 </main>
-
-<?php include("top_button.html"); ?>
 <footer>
 
 </footer>

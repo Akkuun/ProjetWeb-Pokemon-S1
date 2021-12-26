@@ -13,48 +13,57 @@ body {
 Default
 */
 
-#header a, #mini_header a, #footer a {
+header a, #mini_header a, footer a {
     color: white;
     text-decoration: none;
 }
 
-#header a:visited, #mini_header a:visited, #footer a:visited {
+header a:visited, #mini_header a:visited, footer a:visited {
     color: white;
     text-decoration: none;
+}
+
+/*
+Nav Menu
+*/
+
+#menu {
+    text-align: center;
+    font-size: 48px;
+    padding: 0 16px;
 }
 
 /*
 Header
 */
 
-#header {
+header {
     background-color: rgb(36, 37, 32);
     font-family: "Aladin", "Calibri", sans-serif;
     display: flex;
     flex-direction: row;
     width: 100%;
     height: 128px;
-    /*txt-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
     color: white;
 }
 
-#header > img {
+header > img {
     width: 96px;
     height: 96px;
 }
 
-#header > * {
+header > * {
     margin: auto 32px;
 }
 
-#header > nav {
+header > nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
     margin: auto 0 0 auto;
 }
 
-#header > nav > a > div {
+header > nav > a > div {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -87,14 +96,14 @@ Header
     margin: auto 16px;
 }
 
-#mini_header > nav {
+nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
     margin: auto 0 0 auto;
 }
 
-#mini_header > nav > a > div {
+nav > a > div {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -105,7 +114,7 @@ Header
     padding: 16px 32px;
 }
 
-#footer {
+footer {
     background-color: rgb(36, 37, 32);
     font-family: "Aladin", "Calibri", sans-serif;
     display: flex;
@@ -115,7 +124,7 @@ Header
     height: 64px;
 }
 
-#footer > nav {
+nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
@@ -250,6 +259,7 @@ Medias
 @media screen and (max-width: 1024px) {
     nav {
         flex-direction: column;
+        visibility: hidden;
     }
 
     nav > a > div {
@@ -268,6 +278,7 @@ Medias
 @media screen and (min-width: 1024px) {
     nav {
         flex-direction: row;
+        visibility: visible;
     }
 
     nav > a > div {

@@ -11,8 +11,8 @@
 <header>
     <?php include("header.php"); ?>
 </header>
-<?php include("mini_header.php"); ?>
 <main>
+    <?php include("mini_header.php"); ?>
     <?php include("social.html"); ?>
     <div id="content">
         <div class="article single">
@@ -164,7 +164,7 @@
     </div>
     <?php include("top_button.html"); ?>
 </main>
-<footer id="footer">
+<footer>
     <?php include("footer.php"); ?>
 </footer>
 </body>
