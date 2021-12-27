@@ -438,3 +438,13 @@ Extras
     height: 40%;
     width: 40%;
 }
+
+#photo {
+    height: 100%;
+    width: 100%;
+}
+
+#statut {
+    height: 50%;
+    width: 50%;
+}
