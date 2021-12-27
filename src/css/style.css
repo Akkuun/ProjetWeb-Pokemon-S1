@@ -264,6 +264,7 @@ Main
 .article > img {
     width: auto;
     height: 256px;
+    border-radius: 8px;
 }
 
 .text > h3 {
