@@ -6,8 +6,7 @@
 </head>
 <body>
 <div>
-    <?php include("menu.html"); ?>
-    <p>&copy;</p>
+    <p>&copy; 2021 - 2022 | IUT Montpellier Sète | Tout droit réservé</p>
 </div>
 </body>
 </html>
