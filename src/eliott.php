@@ -68,7 +68,7 @@
                 </div>
             </div>
 
-            <div class="article">
+            <div class="article multiple">
                 <img src="res/img/cryptomoney.webp" alt="Cyptomonnaies"/>
                 <div class="text">
                     <h3>Les principales cryptomonnaies :</h3>

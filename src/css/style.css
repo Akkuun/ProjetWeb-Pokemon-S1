@@ -30,6 +30,16 @@ Nav Menu
 #menu {
     display: flex;
     flex-direction: row;
+    margin: auto 0 0 auto;
+}
+
+#menu > nav {
+    margin: auto 0 0 auto;
+    flex-wrap: wrap;
+}
+
+#menu > nav div {
+    padding: 16px 32px;
 }
 
 #menu_button {
@@ -51,18 +61,12 @@ Nav Menu
 }
 
 #nav-menu > a > div {
-    padding: 8px 32px;
+    padding: 8px 32px
 }
 
 /*
 Header
 */
-
-#top {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
 
 header {
     background-color: rgb(36, 37, 32);
@@ -90,6 +94,7 @@ header > div > nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
+    width: 100%;
 }
 
 header > nav > a > div {
@@ -100,6 +105,13 @@ header > nav > a > div {
     text-align: center;
     width: auto;
     height: auto;
+}
+
+#top {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
 }
 
 #mini_header {
@@ -148,6 +160,7 @@ nav {
     display: flex;
     flex-direction: row;
     font-family: "Calibri", sans-serif;
+    margin: 0 auto 0 0;
 }
 
 nav > a > div {
@@ -168,13 +181,6 @@ footer {
     color: white;
     width: 100%;
     height: 64px;
-}
-
-nav {
-    display: flex;
-    flex-direction: row;
-    font-family: "Calibri", sans-serif;
-    margin: 0 auto 0 0;
 }
 
 /*
@@ -240,6 +246,10 @@ Main
     height: auto;
     margin: 64px 5%;
     padding: 16px;
+}
+
+.multiple {
+    display: flex;
 }
 
 .article > * {
@@ -312,19 +322,31 @@ form {
 Medias
 */
 
-@media screen and (max-width: 1175px) {
+@media screen and (max-width: 1190px) {
     .article {
+        flex-direction: column;
+    }
+
+    .multiple {
         flex-direction: column;
     }
 
     .article .text, .single .text {
         width: 95%;
     }
+
+    .multiple .text {
+        width: auto;
+    }
 }
 
-@media screen and (min-width: 1175px) {
+@media screen and (min-width: 1190px) {
     .article {
         flex-direction: row;
+    }
+
+    .multiple {
+        flex-direction: column;
     }
 
     .article .text {
@@ -334,18 +356,43 @@ Medias
     .single .text {
         width: 95%;
     }
+
+    .multiple .text {
+        width: auto;
+    }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
+    header {
+        height: 196px;
+    }
+
+    #top > h1 {
+        font-size: 24px;
+    }
+
+    .article > img {
+        width: 380px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 900px) {
+
+}
+
+@media screen and (max-width: 660px) {
     #mini_header > h1 {
         font-size: 17px;
     }
+
+    header {
+        height: 280px;
+    }
 }
 
-@media screen and (min-width: 800px) {
-    #mini_header > h1 {
+@media screen and (min-width: 660px) {
 
-    }
 }
 
 /*
