@@ -2,6 +2,7 @@ $(document).ready(function() {
     menu();
     social();
     bump("#up");
+    toggleMenu();
 
     $(window).scroll(function() {
         if($(window).scrollTop() === 0) {
@@ -15,7 +16,7 @@ $(document).ready(function() {
             hideMiniHeader();
         }
     }).resize(function() {
-        
+
     });
 });
 
@@ -126,4 +127,33 @@ function hideMiniHeader() {
         .css("top", "-128px")
         .css("visibility", "hidden")
         .css("transition-duration", ".2s");
+}
+
+function toggleMenu() {
+    $("#menu_button").unbind().hover(function() {
+        $(this)
+            .css("cursor", "pointer")
+            .css("background-color", "rgb(56, 57, 52)")
+            .css("transition-duration", ".5s");
+    }).mouseleave(function() {
+        $(this)
+            .css("cursor", "default")
+            .css("background-color", "rgb(36, 37, 32)")
+            .css("transition-duration", ".5s");
+    }).click(function() {
+        if($("#nav-menu").hasClass("menu-open")) {
+            $("#nav-menu")
+                .addClass("menu-close")
+                .removeClass("menu-open")
+                .css("top", "-220px")
+                .css("transition-duration", ".35s");
+        } else if($("#nav-menu").hasClass("menu-close")) {
+            $("#nav-menu")
+                .addClass("menu-open")
+                .removeClass("menu-close")
+                .css("top", "64px")
+                .css("transition-duration", ".35s");
+        }
+        console.log($(this).siblings("nav > div").html());
+    });
 }

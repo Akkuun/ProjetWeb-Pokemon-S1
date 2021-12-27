@@ -7,10 +7,35 @@
 <body>
 <div id="mini_header">
     <img id="logo" src="res/img/umontpellier.png" alt="Université de Montpellier"/>
-    <h1>Le marché de l'art, une nouvelle passion ?</h1>
-    <nav>
-        <?php include("menu.html"); ?>
-    </nav>
+    <h1>Les jeux de cartes à collectionner font-ils émerger un nouveau marché de l’art via internet ?</h1>
+    <div>
+        <div id="menu_button">&equiv;</div>
+        <nav>
+            <div id="nav-menu" class="menu-close">
+                <a href="index.php">
+                    <div>Accueil</div>
+                </a>
+                <a href="mathis.php">
+                    <div>Mathis</div>
+                </a>
+                <a href="enzo.php">
+                    <div>Enzo</div>
+                </a>
+                <a href="">
+                    <div>Cécile</div>
+                </a>
+                <a href="eliott.php">
+                    <div>Eliott</div>
+                </a>
+                <a href="contact.php">
+                    <div>Contact</div>
+                </a>
+                <a>
+                    <div>Sources</div>
+                </a>
+            </div>
+        </nav>
+    </div>
 </div>
 </body>
 </html>
