@@ -16,7 +16,7 @@
     <div class="formulary">
         <form action="">
             <label> Nom et Prémom
-                <input type="text" placeholder="entrer nom">
+                <input type="text" placeholder="entrer nom et Prénom">
             </label>
 
             <label> Email
