@@ -18,7 +18,7 @@
     <div class="article">
         <div class="text">
             <h3>
-                Qu’est-ce qu’un Marché de l’art ?
+                Comment est défini le marché de l'art ?
             </h3>
             <p>
                 Au sein de notre société capitaliste, à partir du moment où l’on créer quelque chose ou fournit un service on peut lui associer une <b>valeur marchande</b>.<br><br>
@@ -41,7 +41,7 @@
                 <br><b>- les peintures</b> <br> <b>- les sculptures</b> <br> <b>- les photographies</b> <br> ainsi que <b> <br>- les dessins</b> <br> de tout type et de tout genre.
                 À comparer avec les sites type Amazon de ventes en ligne d’œuvre du même acabit, les sites dits « <i>artistiques</i> » sont clairement dédiés à des produits dits « <i>de luxe</i> », il n’est pas étonnant de voir des valeurs dépasser les 3 chiffres par exemple :
                 Dans chacun des exemples suivants, je vais utiliser l’œuvre artistique afin d’illustrer le travail de
-                <i>G. Amandine [4].</i>
+                <a href="#source_1_1"><i> <u>G. Amandine [4]. </u></i></a>
 
             </p>
         </div>
@@ -53,9 +53,9 @@
             <h3>Les photos</h3>
             <img alt="" src="res/img/photo.png" id="photo"/>
             <p>
-                Cette série de photographie de <b>Ai Weiwei</b>, un sculpteur / photographe chinois, vaut à ce jour 17 350 euros.<br><br>
+                Cette série de photographie de <b>Ai Weiwei</b>, un sculpteur/photographe chinois, vaut à ce jour 17 350 euros.<br><br>
                 Nous n’allons pas nous étendre trop sur chaque artiste, mais <b>Ai Weiwei</b> c’est principalement fait connaître pour ses <b>œuvres subversives</b> dénoncent le régime chinois.<br><br>
-                Synthèse réalisée d’après la page wikipedia : <br>https://fr.wikipedia.org/wiki/Ai_Weiwei<br><br>
+
 
                 Bref, nous sommes face à une <b>œuvre</b> venant d’un artiste <b>connu</b> ce qui pourrait <b>expliquer</b> en partie <b>le prix</b> de cette dernière.<br><br>
                 En plus de nous donner un visuel de l’œuvre, le site internet nous renseigne sur des détails de conception tels que la technique de photographie, la finition, les dimensions ainsi que l’édition de l’œuvre.
@@ -66,11 +66,10 @@
 
     <div class="article">
         <div class="text">
-            <h3>Les statuts : </h3>
+            <h3>Les statues : </h3>
             <img alt="" src="res/img/statut.png" id="statut"/>
             <p>
-                Pour changer de catégorie d’œuvre<br><br>
-                https://www.singulart.com/fr/oeuvres-d-art/neil-clifford--etrius--672935 <br><br>
+
 
                 Voici un <b>cheval de bronze</b> vendu au prix de 12 260 euros.<br><br>
                 Son prix peut être expliqué par sa <b>taille</b>, le <b>matériau utilisé</b> pour son <b>sculptage</b> ou encore le fait qu’il n’en existe <b>que 18 exemplaires</b> dans le monde (dans le cas de <b>Ai Weiwei</b> nous n’en avions pas plus de 500).<br><br>
@@ -80,14 +79,15 @@
 
     </div>
     <div class="article">
-        <img alt="" src="res/img/tableau1.png" id="tableau1"/>
+
+         <img alt="" src="res/img/tableau1.png" id="tableau1"   />
         <div class="text">
             <h3>Les tableaux : </h3>
             <p>
                 Et enfin pour examiner une dernière œuvre<br>
 
                 Un tableau de <b>Eric Stefanski</b> :<br><br>
-                https://www.singulart.com/fr/oeuvres-d-art/eric-stefanski-news-928995
+
                 <br><br>
                 Se vendent dans les 2280 euros, cette dernière œuvre va m’être <b>utile</b> afin de dresser un semblant d’<b>explication</b> sur les <b>valeurs</b> des œuvres d’art.<br>
             </p>
@@ -97,7 +97,7 @@
             <p>
                 <b>Prenons un autre tableau</b>,<br><br>
 
-                https://www.singulart.com/fr/oeuvres-d-art/natalia-nosek-natxa--yin-yang-1406539<br><br>
+
 
                 Celui-ci par exemple :<br>
 
@@ -140,7 +140,7 @@
                 - <b>Le nombre d’œuvres</b> en vente / circulation sur le marché.<br>
                 - <b>Le genre</b> / <b>style</b> dans lequel s’<b>inscrit</b> l’œuvre.<br>
                 - Et enfin des <b>critères inhérents à l’œuvre</b> telle que sa subversivité et autres.<br><br>
-                Extrait de [4] « Comment fixer le prix d’une œuvre ? » de G. Amandine.
+                <a href="#source_1_1"><u>Extrait de [4] « Comment fixer le prix d’une œuvre ? » de G. Amandine.<u></a>
             </p>
         </div>
     </div>
@@ -149,10 +149,13 @@
         <div class="text">
             <h3>Bibliographie :</h3>
             <p>
-                <i>[4]
+                <i>
+                    <a href="https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/" target="_blank" id="source_1_1">
+                    [4]
                     G. Amandine, « Comment fixer le prix d’une oeuvre ? », ART TOTALe, 18-déc-2015. [Online]. Disponible sur: https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/. [Consulté le: 28-oct-2021]<br>
 
                     Les cartes Pokémon sont devenues désormais des monnaies électroniques échangeable mais n’oublions pas qu’une œuvre d’art (une carte Pokémon en est une) est estimé suivant différents critères. Si cette dernière avait une grande valeur de base alors sa valeur en cryptomonnaies augmenterait aussi.
+                    </a>
                 </i>
             </p>
         </div>

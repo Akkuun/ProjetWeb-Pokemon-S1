@@ -12,6 +12,7 @@
     <?php include("header.php"); ?>
 </header>
 <main>
+
     <?php include("social.html"); ?>
     <div class="formulary">
         <form action="">

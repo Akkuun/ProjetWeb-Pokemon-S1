@@ -3,10 +3,12 @@ html {
     background-size: cover;
     scroll-behavior: smooth;
     /*background-color: rgb(53,56,57);*/
+
 }
 
 body {
     margin: 0;
+    scroll-padding-block: 20px;
 }
 
 /*
@@ -448,3 +450,4 @@ Extras
     height: 50%;
     width: 50%;
 }
+a:visited { color: black; }
