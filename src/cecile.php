@@ -18,13 +18,17 @@
     <div class="article">
         <div class="text">
             <h3>
-                Comment est défini le marché de l'art ?
+                Du papier au numérique ?
             </h3>
             <p>
-                Au sein de notre société capitaliste, à partir du moment où l’on créer quelque chose ou fournit un service on peut lui associer une <b>valeur marchande</b>.<br><br>
-                On constate ce principe dans les bases même de notre société et par le fait que ce système c’est affirmé au fil des années pour prendre la place qu’il occupe aujourd’hui.<br><br>
-                De ce fait, on peut donc dire que <b>toute œuvre</b> dans l’histoire <b>possède une valeur</b>, qu’elle soit infime ou révoltante.<br><br>
-                <b>Cette valeur peut varier de différentes manières</b> en fonction de différents facteurs que nous traiterons plus en aval de cet article.
+                Laissons de côté les pokeballs et les dresseurs de pokémon pour nous intéresser au sport
+                préféré des Français, le football.<br><br>
+                Enfant, nous avons tous déjà vu ou bien eu des cartes à collectionner de joueur de football.
+                Que ce soit de notre équipe préférée ou de petits joueurs, on s’échangeait ses cartes pour avoir la
+                meilleure collection possible.<br><br>
+                Si le souvenir des cours de récréation passées à échanger, gagner ou négocier les cartes de
+                vos rêves vous manque. Pas de panique, une start-up française, Sorare, s’est chargé de remettre
+                votre jeu d’enfance au goût du jour.<br><br>
 
             </p>
         </div>
@@ -33,15 +37,17 @@
     <div class="article">
         <div class="text">
             <h3>
-                Les types d’œuvres d’art :
+                Qu’est-ce que Sorare ?
             </h3>
+            <img alt="" src="res/img/sorare_logo.jpg" id="photo"/>
             <p>
-                Après avoir visité quelques sites de ventes d’œuvre d’art (en ligne ou à acheter en galerie).
-                On se rend compte que les œuvres d’art les plus « prisés » si on puis dire sont :
-                <br><b>- les peintures</b> <br> <b>- les sculptures</b> <br> <b>- les photographies</b> <br> ainsi que <b> <br>- les dessins</b> <br> de tout type et de tout genre.
-                À comparer avec les sites type Amazon de ventes en ligne d’œuvre du même acabit, les sites dits « <i>artistiques</i> » sont clairement dédiés à des produits dits « <i>de luxe</i> », il n’est pas étonnant de voir des valeurs dépasser les 3 chiffres par exemple :
-                Dans chacun des exemples suivants, je vais utiliser l’œuvre artistique afin d’illustrer le travail de
-                <a href="#source_1_1"><i> <u>G. Amandine [4]. </u></i></a>
+                Sorare, une entreprise fondée par deux salariés de la start-up Stratumn en
+                2018, a développé un jeu d’échange de cartes numériques de joueurs de
+                football.<br><br>
+                On peut y acheter des joueurs, vendre, échanger et gérer une équipe virtuelle de
+                football. L’application est sortie en 2019 et compte à ce jour plus de 600 000 utilisateurs enregistrés
+                sur leurs plateformes.<br><br>
+
 
             </p>
         </div>
@@ -50,15 +56,32 @@
     <div class="article">
 
         <div class="text">
-            <h3>Les photos</h3>
-            <img alt="" src="res/img/photo.png" id="photo"/>
+            <h3>Comment cela fonctionne-t-il ?</h3>
+            <img alt="" src="res/img/sorare_club.jpg" id="photo"/>
             <p>
-                Cette série de photographie de <b>Ai Weiwei</b>, un sculpteur/photographe chinois, vaut à ce jour 17 350 euros.<br><br>
-                Nous n’allons pas nous étendre trop sur chaque artiste, mais <b>Ai Weiwei</b> c’est principalement fait connaître pour ses <b>œuvres subversives</b> dénoncent le régime chinois.<br><br>
+                Pour pouvoir y jouer, comme <a href="#source_1_1">Sorareclub[1]</a> nous l’explique, on compose notre équipe
+                virtuelle, avec cinq cartes de joueur, dont chacune repose sur la technologie blockchain.<br><br>
 
+                La Blockchain est une base de données, elle permet de consulter l’acheminement d’une
+                carte, ses prix de vente, ses anciens propriétaires et son authenticité. Ce qui permet à ses utilisateurs
+                d’effectuer des ventes et des achats rapidement, simplement et en toute sécurité sans intermédiaire.<br><br>
 
-                Bref, nous sommes face à une <b>œuvre</b> venant d’un artiste <b>connu</b> ce qui pourrait <b>expliquer</b> en partie <b>le prix</b> de cette dernière.<br><br>
-                En plus de nous donner un visuel de l’œuvre, le site internet nous renseigne sur des détails de conception tels que la technique de photographie, la finition, les dimensions ainsi que l’édition de l’œuvre.
+                Par la suite, les équipes sont classées en fonction des performances des joueurs, du nombre
+                de matches joués et du niveau de rareté de leur carte. Lors de chaque affrontement, votre équipe
+                vous rapportera de l’Ethereum que vous pourrez utiliser pour acquérir d’autre joueur ou les
+                convertir en euros.<br><br>
+
+                Ces œuvres peuvent être vendues sous la forme de monnaie non-échangeable, où, autrement
+                dit des NFT, mais que cela représente-il vraiment ?<br><br>
+
+                Il est conseiller, au début du jeu, de choisir des petits joueurs peut connue donc peu chère
+                pour que leurs valeurs augmentent facilement. Ainsi, ils les revendent avec une petite marge et
+                recommencent pour avoir la possibilité d’obtenir une carte un peu plus rare et plus chère pour
+                améliorer leur main. Certaines personnes ont actuellement des équipes dont la valeur est de plus de
+                50 000 € et celle-ci continue de fluctuer.<br><br>
+
+                De plus lorsque l’on créer notre compte le jeu nous permet de jouer avec des cartes gratuites
+                afin de tester le jeu sans engagement et sans frais.<br><br>
 
             </p>
         </div>
@@ -66,95 +89,77 @@
 
     <div class="article">
         <div class="text">
-            <h3>Les statues : </h3>
-            <img alt="" src="res/img/statut.png" id="statut"/>
+            <h3>De l’art ? </h3>
+            <p>
+                Suite à la pandémie de 2019, beaucoup de personnes se sont retrouvées à devoir passer plus
+                de temps sur leur ordinateur ou leur smartphone. Ce jeu, mélangeant à la fois le football et les
+                enchères, n’est donc pas passé totalement inaperçu en cette période. D’après la plateforme <a href="#source_1_2">
+                    NonFungible.com[2]</a>, la vente d’œuvre numérique vendue par le biais des cryptomonnaies a très
+                largement augmenté par rapport aux années passées. En 2018, le volume total de vente effectué en
+                cryptomonnaie était en moyenne de 2146 tandis qu’en 2019 cette valeur s’est élevée à 32 084 ! Le
+                fait que de nombreux acteurs arrivent jour après jour dans ce milieu fait encore plus monter le
+                nombre de transactions.<br><br>
+            </p>
+            <img alt="" src="res/img/sorare_stat.png" id="photo"/>
             <p>
 
+                Chaque carte est composée d’un joueur et d’un niveau de rareté (Limited, Rare, Super Rare
+                et Unique) avec un nombre d’exemplaires numériques limité. Les cartes « Limited » auront 1000
+                exemplaires produit par an, pour les « rare » ce sera 100 exemplaires, 10 exemplaires pour les super
+                rare et évidemment un seul exemplaire pour les cartes unique.<br><br>
 
-                Voici un <b>cheval de bronze</b> vendu au prix de 12 260 euros.<br><br>
-                Son prix peut être expliqué par sa <b>taille</b>, le <b>matériau utilisé</b> pour son <b>sculptage</b> ou encore le fait qu’il n’en existe <b>que 18 exemplaires</b> dans le monde (dans le cas de <b>Ai Weiwei</b> nous n’en avions pas plus de 500).<br><br>
-                L’artiste quant à lui semble être moins connu que <b>Ai Weiwei</b> étant donné qu’il ne <b>possède pas</b> de page Wikipédia.<br>
+                Tout cela permet à la carte de faire fluctuer son prix lors de ses ventes et de ses matchs. Lors
+                de la revente, l’on peut atteindre de très grosses sommes comme la carte de Antoine Griezmann en «
+                unique ». Celle-ci s’est vendu aux enchères à 114 916,81 $US soit, pour donner une échelle, plus
+                chère que certains petits dessins de Picasso.
+
+            </p>
+            <img alt="" src="res/img/sorare_griezmann.png" id="photo"/>
+            <p>
+                La valeur peut aussi chuter si le joueur en question est blessé, ne participe pas assez à des
+                matchs ou bien s’il arrête sa carrière.<br><br>
+                Comme en arts, un peintre qui aura réalisé plusieurs fois, la même œuvre d’art, le prix de
+                celle-ci sera moins élevé qu’une œuvre unique. Ainsi le nombre d’exemplaires, donc le type de
+                rareté pour les cartes fera tout autant fluctuer la valeur d’une œuvre que celle d’une carte. Il influe
+                aussi sur la rareté et le prix de l’œuvre de par son nom, ainsi que sa période et le message
+                transmis. Le joueur de football représenté sur la carte compte comme un peintre, ses aptitudes
+                physiques et sa méthode de jeu influent sur l’attrait par les supporters. De plus, si celui-ci défend
+                une cause, il verra le prix de sa carte être impacté, comme Zidane qui est parrain de l’association
+                ELA.<br><br>
+
+                Enfin, de nos jours, l’art et le football sont plus liés que ce que l’on pourrait croire sur le
+                marché de l’art. Leurs performances influent directement sur la valeur des cartes ce qui démontre
+                que le système peut tomber du jour au lendemain.<br><br>
+
+                Ce marché s’inscrit parfaitement dans l’époque dans laquelle il évolue, en utilisant les outils
+                s’exprimant autour de lui tel que la blockchain, les NFT ou plus généralement internet.<br><br>
+
+                Nous pouvons en conclure que la vente des cartes est devenue un véritable marché de l’art
+                au même titre que certaines œuvres. Ce dernier, respecte certains codes, tout en adoptant l’adaptant
+                au jeu afin de plaire et de gagner en valeur aux yeux des acheteurs.<br><br>
+
+
             </p>
         </div>
 
     </div>
-    <div class="article">
 
-        <img alt="" src="res/img/tableau1.png" id="tableau1"   />
-        <div class="text">
-            <h3>Les tableaux : </h3>
-            <p>
-                Et enfin pour examiner une dernière œuvre<br>
-
-                Un tableau de <b>Eric Stefanski</b> :<br><br>
-
-                <br><br>
-                Se vendent dans les 2280 euros, cette dernière œuvre va m’être <b>utile</b> afin de dresser un semblant d’<b>explication</b> sur les <b>valeurs</b> des œuvres d’art.<br>
-            </p>
-        </div>
-        <img alt="" src="res/img/tableau2.png" id="tableau2"/>
-        <div class="text">
-            <p>
-                <b>Prenons un autre tableau</b>,<br><br>
-
-
-
-                Celui-ci par exemple :<br>
-
-                Il se vend dans les 750 euros.<br>
-                On a précédemment vu que le prix d’une <b>œuvre</b> pouvait varier en fonction de plusieurs facteurs : <br>- <b>l’artiste</b> qu’y l’avait réalisé, <br>- <b>le matériau</b> utilisé (le bronze, ciment …)
-                même s’il est plus pertinent d’en parler dans le cas d’une sculpture, ainsi
-                que <br>- <b>le nombre d’œuvres</b> prévu à la vente (500, 18 …).
-
-            </p>
-        </div>
-    </div>
-
-    <div class="article">
-        <div class="text">
-            <h3>Deux derniers critères :</h3>
-            <p>
-                Avec ces deux dernières œuvres, nous pouvons mettre en forme deux derniers critères de valeur pour les œuvres d’art.<br><br>
-
-                <b>Premièrement</b>, le genre de l’œuvre.<br>
-                En fonction du temps, les <b>genres</b> (principalement au niveau de la peinture) se sont retrouvés <b>plus ou moins influents</b>, si bien que s’en peut <b>modifier</b> leurs <b>prix</b> en fonction de la demande générale.
-                <br><br>
-                <b>Deuxièmement</b>, si l’œuvre est <b>subversive</b>. <br>
-                Au fil de nos recherches nous avons remarqué que les <b>œuvres</b> à caractère <b>subversives</b> ou <b>dénoncent</b> avait une <b>plus valu significative</b> par rapport aux œuvres dite « <b>classique</b> ».<br>
-                Pour illustrer ce <b>dernier critère</b> de valeur, nous avons donc choisi 2 <b>œuvres</b> du <b>même genre</b> (pop art), mais pourtant ayant une <b>valeur significativement éloignée</b>.<br>
-                L’œuvre dite « <b>classique</b> » est plus jolie, simple, relaxante tandis que l’œuvre subversive elle consiste en un texte écrit sur fond blanc disant : « <i>All of the assholes are gone</i> »
-                <br><br>
-                Malgré le fait que l’<b>œuvre</b> « <b>classique</b> » est globalement plus <b>agréable</b>, c’est l’œuvre <b>subversive</b> qui va afficher le <b>prix</b> le plus <b>onéreux</b>.
-
-            </p>
-        </div>
-    </div>
-    <div class="article">
-        <div class="text">
-            <h3>Résumé des critères :</h3>
-            <p>
-                Pour résumer on peut donc dire que la valeur d’une <b>œuvre</b> d’art peut être défini en <b>5 critères</b> majeurs tels que :<br><br>
-
-                - <b>L’artiste</b> qui l’a réalisé.<br>
-                - <b>Le matériau</b> / le <b>style</b> utilisé afin de réaliser l’œuvre en question.<br>
-                - <b>Le nombre d’œuvres</b> en vente / circulation sur le marché.<br>
-                - <b>Le genre</b> / <b>style</b> dans lequel s’<b>inscrit</b> l’œuvre.<br>
-                - Et enfin des <b>critères inhérents à l’œuvre</b> telle que sa subversivité et autres.<br><br>
-                <a href="#source_1_1"><u>Extrait de [4] « Comment fixer le prix d’une œuvre ? » de G. Amandine.<u></a>
-            </p>
-        </div>
-    </div>
 
     <div class="article">
         <div class="text">
             <h3>Bibliographie :</h3>
             <p>
                 <i>
-                    <a href="https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/" target="_blank" id="source_1_1">
-                        [4]
-                        G. Amandine, « Comment fixer le prix d’une oeuvre ? », ART TOTALe, 18-déc-2015. [Online]. Disponible sur: https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/. [Consulté le: 28-oct-2021]<br>
+                    <a href="https://sorareclub.com/le-guide-ultime-pour-tout-connaitre-de-sorare-data/?utm_source=pocket_mylist" target="_blank" id="source_1_1">
+                        [1]
+                        sorareclub@gmail.com, « Le Guide Ultime pour tout connaître de Sorare Data », SORARECLUB, 25-juin-2021. [Online]. Disponible sur: https://sorareclub.com/le-guide-ultime-pour-tout-connaitre-de-sorare-data/?utm_source=pocket_mylist [Consulté le: 28-oct-2021]<br>
 
-                        Les cartes Pokémon sont devenues désormais des monnaies électroniques échangeable mais n’oublions pas qu’une œuvre d’art (une carte Pokémon en est une) est estimé suivant différents critères. Si cette dernière avait une grande valeur de base alors sa valeur en cryptomonnaies augmenterait aussi.
+                    </a>
+                    <br><br>
+                    <a href="https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0" target="_blank" id="source_1_2">
+                        [2]
+                        sorare, « Sorare », NonFungible, 25-juin-2021. [Online]. Disponible sur: https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0 [Consulté le: 28-oct-2021]<br>
+
                     </a>
                 </i>
             </p>
