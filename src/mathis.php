@@ -152,9 +152,7 @@
                        target="_blank" id="source_2_2">
                         [2] F. Guyomard, « La Pokémania, c’est encore de la balle », Libération, 31-janv-2021.
                         [Online]</a>
-
                 </i>
-
             </p>
             <p>
                 <i>
@@ -165,7 +163,6 @@
             </p>
         </div>
     </div>
-
     <?php include("top_button.html"); ?>
 </main>
 <footer>
