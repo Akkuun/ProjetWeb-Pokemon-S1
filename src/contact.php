@@ -12,7 +12,6 @@
     <?php include("header.php"); ?>
 </header>
 <main>
-
     <?php include("social.html"); ?>
     <div class="formulary">
         <form action="">
@@ -44,10 +43,11 @@
             <input type="submit">
         </form>
     </div>
+    <div style="height: 512px"></div>
     <?php include("top_button.html"); ?>
 </main>
 <footer>
-
+    <?php include("footer.php"); ?>
 </footer>
 </body>
 </html>

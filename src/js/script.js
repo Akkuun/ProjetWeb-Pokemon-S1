@@ -145,7 +145,7 @@ function toggleMenu() {
             $("#nav-menu")
                 .addClass("menu-close")
                 .removeClass("menu-open")
-                .css("top", "-220px")
+                .css("top", "-224px")
                 .css("transition-duration", ".35s");
         } else if($("#nav-menu").hasClass("menu-close")) {
             $("#nav-menu")

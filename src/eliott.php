@@ -183,15 +183,13 @@
                         payer
                         plusieurs milliers de dollars NFT afin de posséder tout un kit de collection unique sur ce
                         marché.
+                        <em>L’intérêt artistique peut paraître obscur. Mais après tout, qu’est-ce que l’art ? Vous avez
+                            quatre heures.</em>
                     </p>
-                    <em>L’intérêt artistique peut paraître obscur. Mais après tout, qu’est-ce que l’art ? Vous avez
-                        quatre
-                        heures.</em>
                     <br><br>
                 </div>
                 <img src="res/img/topsales.png" alt="Meilleur vente de NFT CryptoPunk"/>
             </div>
-
         </div>
         <div class="side"></div>
     </div>
