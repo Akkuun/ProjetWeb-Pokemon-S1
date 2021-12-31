@@ -114,6 +114,14 @@
                 chère que certains petits dessins de Picasso.
 
             </p>
+
+        </div>
+
+    </div>
+
+            <div class="article">
+                <div class="text">
+                    <p>
             <img alt="" src="res/img/sorare_griezmann.png" id="photo"/>
             <p>
                 La valeur peut aussi chuter si le joueur en question est blessé, ne participe pas assez à des
