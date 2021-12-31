@@ -451,3 +451,7 @@ Extras
     width: 50%;
 }
 a:visited { color: black; }
+
+a{
+    color: black;
+}
