@@ -191,6 +191,7 @@
                 </div>
                 <img src="res/img/topsales.png" alt="Meilleur vente de NFT CryptoPunk"/>
             </div>
+
         </div>
         <div class="side"></div>
     </div>

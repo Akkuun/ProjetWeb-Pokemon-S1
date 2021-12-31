@@ -6,8 +6,10 @@
     <script src="https://code.jquery.com/jquery-3.6.0.js" type="text/javascript"></script>
     <script src="js/script.js"></script>
     <title>Projet Web</title>
+
 </head>
 <body>
+
 <header>
     <?php include("header.php"); ?>
 </header>
@@ -53,7 +55,8 @@
                 notamment avec une implication majeures des acteurs (jeunes adulte ou enfant passionné) ainsi que la
                 création de nombreuses licences + produits dérivés. Que ce soit Jeux, cartes à collectionner, manga,
                 film, tournois, jouets, vêtements, lego. On parle alors pour la première fois d'une véritable
-               <a href="#source_2_2"> "Pokémania" [2]</a> afin de quantifier cet engouement totalement unique dans le marché occidental. Tous les
+                <a href="#source_2_2"> "Pokémania" [2]</a> afin de quantifier cet engouement totalement unique dans le
+                marché occidental. Tous les
                 enfants et jeunes adultes vont connaître Pokémon, que ce soit à l'école ou par les médias grâce au
                 marketing puissant de la firme.</p>
         </div>
@@ -134,7 +137,8 @@
                 cesse.
                 <br><br>
                 Cet impact s'est fait ressentir sur internet, que ce soit sur Youtube, Twitch, Google, tout le monde
-                parlait de Pokémon. Si l'on regarde l'intérêt du mot "Pokémon" sur <a href="#source_2_1">Google [6]</a> durant le premier
+                parlait de Pokémon. Si l'on regarde l'intérêt du mot "Pokémon" sur <a href="#source_2_1">Google [6]</a>
+                durant le premier
                 confinement mondial, on voit bien l'explosion du phénomène.</p>
         </div>
         <img alt="logo company" src="res/img/graphe.png" id="graph"/>
@@ -144,15 +148,19 @@
             <h3>Bibliographie :</h3>
             <p>
                 <i>
-                    <a href="https://trends.google.fr/trends/explore?cat=8&date=today%205-y&q=%2Fm%2F05b1n7" target="_blank" id="source_2_1">
-                        [6] Google, « Google Trends », Trends of « Pokémon » web search, 2021. [Online]</a>
+                    <a href="https://www.liberation.fr/vous/2021/01/31/la-pokemania-c-est-encore-de-la-balle_1818768/"
+                       target="_blank" id="source_2_2">
+                        [2] F. Guyomard, « La Pokémania, c’est encore de la balle », Libération, 31-janv-2021.
+                        [Online]</a>
+
                 </i>
 
             </p>
             <p>
                 <i>
-                    <a href="https://www.liberation.fr/vous/2021/01/31/la-pokemania-c-est-encore-de-la-balle_1818768/" target="_blank" id="source_2_2">
-                        [2] F. Guyomard, « La Pokémania, c’est encore de la balle », Libération, 31-janv-2021. [Online]</a>
+                    <a href="https://trends.google.fr/trends/explore?cat=8&date=today%205-y&q=%2Fm%2F05b1n7"
+                       target="_blank" id="source_2_1">
+                        [6] Google, « Google Trends », Trends of « Pokémon » web search, 2021. [Online]</a>
                 </i>
             </p>
         </div>

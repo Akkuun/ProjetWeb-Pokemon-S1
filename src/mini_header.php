@@ -15,17 +15,17 @@
                 <a href="index.php">
                     <div>Accueil</div>
                 </a>
-                <a href="mathis.php">
-                    <div>Mathis</div>
-                </a>
                 <a href="enzo.php">
-                    <div>Enzo</div>
+                    <div>Le marché de l'art</div>
                 </a>
-                <a href="">
+                <a href="mathis.php">
+                    <div>Le marché des cartes pokémons</div>
+                </a>
+                <a href="cecile.php">
                     <div>Cécile</div>
                 </a>
                 <a href="eliott.php">
-                    <div>Eliott</div>
+                    <div>Les crytomonaies</div>
                 </a>
                 <a href="contact.php">
                     <div>Contact</div>
