@@ -101,6 +101,13 @@
                 nombre de transactions.<br><br>
             </p>
             <img alt="" src="res/img/sorare_stat.png" id="photo"/>
+        </div>
+
+    </div>
+
+            <div class="article">
+                <div class="text">
+
             <p>
 
                 Chaque carte est composée d’un joueur et d’un niveau de rareté (Limited, Rare, Super Rare
@@ -108,10 +115,15 @@
                 exemplaires produit par an, pour les « rare » ce sera 100 exemplaires, 10 exemplaires pour les super
                 rare et évidemment un seul exemplaire pour les cartes unique.<br><br>
 
+                <img alt="" src="res/img/sorare_griezmann.png" id="photo"/>
+
                 Tout cela permet à la carte de faire fluctuer son prix lors de ses ventes et de ses matchs. Lors
                 de la revente, l’on peut atteindre de très grosses sommes comme la carte de Antoine Griezmann en «
                 unique ». Celle-ci s’est vendu aux enchères à 114 916,81 $US soit, pour donner une échelle, plus
                 chère que certains petits dessins de Picasso.
+
+                La valeur peut aussi chuter si le joueur en question est blessé, ne participe pas assez à des
+                matchs ou bien s’il arrête sa carrière.<br><br>
 
             </p>
 
@@ -122,11 +134,9 @@
 
             <div class="article">
                 <div class="text">
-                    <p>
-            <img alt="" src="res/img/sorare_griezmann.png" id="photo"/>
+
             <p>
-                La valeur peut aussi chuter si le joueur en question est blessé, ne participe pas assez à des
-                matchs ou bien s’il arrête sa carrière.<br><br>
+
                 Comme en arts, un peintre qui aura réalisé plusieurs fois, la même œuvre d’art, le prix de
                 celle-ci sera moins élevé qu’une œuvre unique. Ainsi le nombre d’exemplaires, donc le type de
                 rareté pour les cartes fera tout autant fluctuer la valeur d’une œuvre que celle d’une carte. Il influe
