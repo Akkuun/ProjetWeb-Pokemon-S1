@@ -30,8 +30,8 @@
                 <a href="contact.php">
                     <div>Contact</div>
                 </a>
-                <a href="Equipe.php">
-                    <div>Equipe</div>
+                <a href="team.php">
+                    <div>Équipe</div>
                 </a>
             </div>
         </nav>
