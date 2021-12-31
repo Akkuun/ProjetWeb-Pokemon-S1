@@ -3,6 +3,7 @@ $(document).ready(function() {
     social();
     bump("#up");
     toggleMenu();
+    inputAnimation();
 
     $(window).scroll(function() {
         if($(window).scrollTop() === 0) {
@@ -19,6 +20,7 @@ $(document).ready(function() {
 
     });
 });
+
 
 function social() {
     $("#social > div:first-child").unbind().hover(function() {
@@ -155,5 +157,17 @@ function toggleMenu() {
                 .css("transition-duration", ".35s");
         }
         console.log($(this).siblings("nav > div").html());
+    });
+}
+
+function inputAnimation() {
+    $(".formulary > form > div > div > label > input").focus(function() {
+        $(this)
+            .css("background-color", "rgba(255, 255, 0, .35)")
+            .css("transition-duration", ".35s");
+    }).blur(function() {
+        $(this)
+            .css("background-color", "white")
+            .css("transition-duration", ".35s");
     });
 }

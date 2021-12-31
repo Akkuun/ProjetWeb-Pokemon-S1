@@ -314,22 +314,48 @@ Formulary
 
 .formulary {
     background-color: white;
-    border: black 2px solid;
+    border: black 2px outset;
     font-family: "Calibri", sans-serif;
+    border-radius: 16px 32px;
     display: flex;
+    flex-direction: row;
     margin: 32px 10% 32px 10%;
     padding: 16px;
     width: auto;
     height: auto;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
+.formulary input {
+    width: 512px;
 }
 
-.formulary label {
-    margin: 8px 8px;
+#submit {
+    width: auto;
+    padding: 8px;
+}
+
+.formulary > form > div {
+    display: flex;
+    flex-direction: row;
+}
+
+.formulary > form > div > div {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 32px;
+}
+
+.formulary > form > div > div > * {
+    margin: 8px 4px;
+}
+
+.formulary > form > div > div:first-child > * {
+    margin: 11px 4px 8px 4px;
+}
+
+.formulary > form > div > div:last-child > label:last-child > input {
+    max-width: 512px;
+    height: 128px;
 }
 
 /*
