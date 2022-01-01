@@ -35,7 +35,8 @@
             <img src="res/img/cécile.webp" alt="Enzo"/>
             <ul>
                 <li>Recherches</li>
-                <li>Stylisation Website</li>
+                <li>Rédaction</li>
+
             </ul>
         </div>
 
@@ -43,7 +44,13 @@
             <h4>Mathis Duban</h4>
             <img src="res/img/mathis.webp" alt="Enzo"/>
             <ul>
-                <li>Développement d'animations</li>
+                <li>Développement d'animations Javascript</li>
+                <li>Stylisation Website</li>
+                <li>Mise en place de l'organisation du groupe</li>
+                <li>Mise en forme HTML</li>
+                <li>Stylisation CSS</li>
+                <li>Gestion Responsive Design</li>
+
             </ul>
         </div>
         
@@ -53,7 +60,10 @@
             <ul>
                 <li>Organisation de groupe GitHub</li>
                 <li>Stylisation CSS</li>
-                <li>Développement d'animations</li>
+                <li>Développement d'animations Javascript</li>
+                <li>Stylisation Website</li>
+                <li>Gestion Responsive Design</li>
+
             </ul>
         </div>
     </div>
