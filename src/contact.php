@@ -15,6 +15,10 @@
     <?php include("mini_header.php"); ?>
     <?php include("social.html"); ?>
 
+    <div class="team">
+        <h3>Contactez nous dès maintenant !</h3>
+    </div>
+
     <div class="formulary">
         <form action="">
             <div>
@@ -47,7 +51,7 @@
 
                     <label>
                         <select name="orga">
-                            <option value="">--Sélectionner votre organisation--</option>
+                            <option value="">-- Sélectionner votre organisation --</option>
                             <option value="particulier">particulier</option>
                             <option value="entreprise">entreprise</option>
                             <option value="académie">académie</option>
@@ -64,7 +68,7 @@
             </div>
         </form>
     </div>
-    <div style="height: 512px"></div>
+    <div style="height: 220px"></div>
     <?php include("top_button.html"); ?>
 </main>
 <footer>
