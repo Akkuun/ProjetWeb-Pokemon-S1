@@ -11,8 +11,8 @@
 <header>
     <?php include("header.php"); ?>
 </header>
-<?php include("mini_header.php"); ?>
 <main>
+    <?php include("mini_header.php"); ?>
     <?php include("social.html"); ?>
 
     <div id="main">
@@ -63,22 +63,22 @@
             </div>
 
             <div class="article">
+                <img alt="" src="res/img/photo.png" id="photo"/>
                 <div class="text">
                     <h3>Les photos</h3>
-                    <img alt="" src="res/img/photo.png" id="photo"/>
                     <p>
                         Cette série de photographies de <b>Ai Weiwei</b>, un sculpteur/photographe chinois, vaut à ce
-                        jour 17 350
-                        euros.<br><br>
+                        jour 17 350 euros.<br><br>
                         Nous n’allons pas nous étendre trop sur chaque artiste, mais <b>Ai Weiwei</b> c’est
-                        principalement fait
-                        connaître pour ses <b>œuvres subversives</b> dénoncent le régime chinois.<br><br>
+                        principalement fait connaître pour ses <b>œuvres subversives</b> dénoncent le régime
+                        chinois.
+                        <br><br>
                         Bref, nous sommes face à une <b>œuvre</b> venant d’un artiste <b>connu</b> ce qui pourrait
-                        <b>expliquer</b> en partie <b>le prix</b> de cette dernière.<br><br>
+                        <b>expliquer</b> en partie <b>le prix</b> de cette dernière.
+                        <br><br>
                         En plus de nous donner un visuel de l’œuvre, le site internet nous renseigne sur des détails de
                         conception tels que la technique de photographie, la finition, les dimensions ainsi que
-                        l’édition de
-                        l’œuvre.
+                        l’édition de l’œuvre.
                     </p>
                 </div>
             </div>

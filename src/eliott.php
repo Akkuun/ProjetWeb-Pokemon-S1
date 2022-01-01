@@ -14,6 +14,7 @@
 <main>
     <?php include("mini_header.php"); ?>
     <?php include("social.html"); ?>
+
     <div id="main">
         <div id="content">
             <div class="article single">
