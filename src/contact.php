@@ -12,7 +12,7 @@
     <?php include("header.php"); ?>
 </header>
 <main>
-    <?php include("mini_header.html"); ?>
+    <?php include("mini_header.php"); ?>
     <?php include("social.html"); ?>
 
     <div class="formulary">
