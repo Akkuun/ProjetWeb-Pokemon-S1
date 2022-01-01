@@ -62,7 +62,7 @@ Nav Menu
     right: 0;
 }
 
-#nav-menu > a > div {
+#nav-menu > div > a > div {
     padding: 8px 32px
 }
 

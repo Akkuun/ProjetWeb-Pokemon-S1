@@ -12,27 +12,41 @@
         <div id="menu_button">&equiv;</div>
         <nav>
             <div id="nav-menu" class="menu-close">
-                <a href="index.php">
-                    <div>Accueil</div>
-                </a>
-                <a href="enzo.php">
-                    <div>Le marché de l'art</div>
-                </a>
-                <a href="mathis.php">
-                    <div>Le marché des cartes pokémons</div>
-                </a>
-                <a href="cecile.php">
-                    <div>Du papier au numérique</div>
-                </a>
-                <a href="eliott.php">
-                    <div>Les crytomonaies</div>
-                </a>
-                <a href="contact.php">
-                    <div>Contact</div>
-                </a>
-                <a href="team.php">
-                    <div>Équipe</div>
-                </a>
+                <div>
+                    <a href="index.php">
+                        <div>Accueil</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="enzo.php">
+                        <div>Le marché de l'art</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="mathis.php">
+                        <div>Le marché des cartes pokémons</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="cecile.php">
+                        <div>Du papier au numérique</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="eliott.php">
+                        <div>Les crytomonaies</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="contact.php">
+                        <div>Contact</div>
+                    </a>
+                </div>
+                <div>
+                    <a href="team.php">
+                        <div>Équipe</div>
+                    </a>
+                </div>
             </div>
         </nav>
     </div>

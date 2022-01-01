@@ -74,6 +74,16 @@ function menu() {
         $(this).children()
             .css("visibility", "hidden");
     });
+
+    $("#nav-menu > div").unbind().hover(function() {
+        $(this)
+            .css("background-color", "rgb(56, 57, 52)")
+            .css("transition-duration", ".35s");
+    }).mouseleave(function() {
+        $(this)
+            .css("background-color", "rgb(36, 37, 32)")
+            .css("transition-duration", ".35s");
+    });
 }
 
 function bump(field) {
