@@ -46,13 +46,11 @@
                         Qu’est-ce que Sorare ?
                     </h3>
                     <p>
-                        Sorare, une entreprise fondée par deux salariés de la start-up Stratumn en
-                        2018, a développé un jeu d’échange de cartes numériques de joueurs de
-                        football.
+                        Sorare, une entreprise fondée par deux salariés de la start-up Stratumn en 2018, a développé un
+                        jeu d’échange de cartes numériques de joueurs de football.
                         <br><br>
-                        On peut y acheter des joueurs, vendre, échanger et gérer une équipe virtuelle de
-                        football. L’application est sortie en 2019 et compte à ce jour plus de 600 000 utilisateurs
-                        enregistrés
+                        On peut y acheter des joueurs, vendre, échanger et gérer une équipe virtuelle de football.
+                        L’application est sortie en 2019 et compte à ce jour plus de 600 000 utilisateurs enregistrés
                         sur leurs plateformes.
                         <br><br>
                     </p>

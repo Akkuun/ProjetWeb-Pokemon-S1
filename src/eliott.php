@@ -189,6 +189,30 @@
                 </div>
                 <img src="res/img/topsales.png" alt="Meilleur vente de NFT CryptoPunk"/>
             </div>
+
+            <div class="article single">
+                <div class="text">
+                    <h3>Bilbiographie</h3>
+                    <p>
+                        <em>
+                            [5]
+                            T. Samir, « Marché de l’art : Sotheby’s s’ouvre aux cryptomonnaies », Les Echos,
+                            08-mai-2021.
+                            [Online]. Disponible sur:
+                            https://www.lesechos.fr/industrie-services/services-conseils/marche-de-lart-sothebys-souvre-aux-cryptomonnaies-1313582.
+                            [Consulté le: 28-oct-2021]
+                            <br><br>
+                            La crise sanitaire du covid a offert de belle perspective pour les nouvelles cryptomonnaies
+                            Les gens se sont beaucoup plus tournés vers d’autre moyen de gagner de l’argent depuis chez
+                            soi, notamment avec les NFT. Les œuvres sont désormais numériques avec un nombre de
+                            transfert hallucinant. Les revendeurs sont partout dans le monde et font de nombreux
+                            transferts ce qui fait forcément grimper le prix des œuvres en flèche, ces vendeurs font
+                            partie intégrante du marché car ils influent directement sur les offres et demandes et donc
+                            des prix.
+                        </em>
+                    </p>
+                </div>
+            </div>
         </div>
         <div class="side"></div>
     </div>
