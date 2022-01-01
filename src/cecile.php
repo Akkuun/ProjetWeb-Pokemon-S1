@@ -40,7 +40,7 @@
             </div>
 
             <div class="article">
-                <img alt="" src="res/img/sorare_logo.jpg" id="photo"/>
+                <img alt="" src="res/img/sorare_logo.jpg"/>
                 <div class="text">
                     <h3>
                         Qu’est-ce que Sorare ?
@@ -107,7 +107,7 @@
                         <br><br>
                     </p>
                 </div>
-                <img alt="" src="res/img/sorare_stat.png" id="photo"/>
+                <img alt="" src="res/img/sorare_stat.png"/>
             </div>
 
             <div class="article">
@@ -120,7 +120,7 @@
                         <br><br>
                     </p>
                 </div>
-                <img alt="" src="res/img/sorare_griezmann.png" id="photo"/>
+                <img alt="" src="res/img/sorare_griezmann.png"/>
                 <div class="text">
                     <p>
                         Tout cela permet à la carte de faire fluctuer son prix lors de ses ventes et de ses matchs. Lors

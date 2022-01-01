@@ -397,7 +397,23 @@ Formulary
 Medias
 */
 
-@media screen and (max-width: 1190px) {
+@media screen and (max-width: 1375px) {
+    #menu > nav div {
+        padding: 12px 20px;
+    }
+}
+
+@media screen and (min-width: 1375px) {
+    #menu > nav div {
+        padding: 36px 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    header {
+        height: 220px;
+    }
+
     .article {
         flex-direction: column;
     }
@@ -415,7 +431,11 @@ Medias
     }
 }
 
-@media screen and (min-width: 1190px) {
+@media screen and (min-width: 1200px) {
+    header {
+        height: 176px;
+    }
+
     .article {
         flex-direction: row;
     }
@@ -456,13 +476,29 @@ Medias
 
 }
 
-@media screen and (max-width: 660px) {
-    #mini_header > h1 {
-        font-size: 17px;
+@media screen and (max-width: 790px) {
+    #menu {
+        visibility: hidden;
     }
 
     header {
-        height: 280px;
+        height: 176px;
+    }
+}
+
+@media screen and (min-width: 790px) {
+    #menu {
+        visibility: visible;
+    }
+
+    header {
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    #mini_header > h1 {
+        font-size: 17px;
     }
 }
 
@@ -503,8 +539,8 @@ Extras
 }
 
 #photo {
-    height: 100%;
-    width: 100%;
+    height: 75%;
+    width: 75%;
 }
 
 #statut {
