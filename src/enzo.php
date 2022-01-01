@@ -60,7 +60,7 @@
             </div>
 
             <div class="article">
-                <img alt="" src="res/img/photo.png" id="photo"/>
+                <img alt="Photo de Ai Weiwei" src="res/img/photo.png" id="photo"/>
                 <div class="text">
                     <h3>Les photos</h3>
                     <p>
@@ -85,7 +85,7 @@
             <div class="article">
                 <div>
                     <h3>Les statues : </h3>
-                    <img alt="" src="res/img/statut.png" id="statut"/>
+                    <img alt="statue cheval de bronze" src="res/img/statut.png" id="statut"/>
                 </div>
                 <div class="text">
                     <p>
@@ -103,7 +103,7 @@
             </div>
 
             <div class="article">
-                <img alt="" src="res/img/tableau1.png" id="tableau1"/>
+                <img alt="tableau breaking news" src="res/img/tableau1.png" id="tableau1"/>
                 <div class="text">
                     <h3>Les tableaux : </h3>
                     <p>
@@ -118,7 +118,7 @@
                         <br>
                     </p>
                 </div>
-                <img alt="" src="res/img/tableau2.png" id="tableau2"/>
+                <img alt="tableau poisson" src="res/img/tableau2.png" id="tableau2"/>
                 <div class="text">
                     <p>
                         <strong>Prenons un autre tableau</strong>,

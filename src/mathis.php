@@ -33,7 +33,7 @@
             </div>
 
             <div class="article">
-                <img id="pub" alt="" src="res/img/pub.png"/>
+                <img id="pub" alt="pub pokemon" src="res/img/pub.png"/>
                 <div class="text">
                     <p> Au départ "the Pokémon Company" n'avait pas misé autant sur les cartes, cela n'était qu'au début
                         une société de jeu vidéo japonaise (1998) qui avait leur premier projet nommé "Poketto Monsutā"
@@ -96,7 +96,7 @@
 
             </div>
             <div class="article even">
-                <img alt="" src="res/img/pca.png" id="pca"/>
+                <img alt="pca logo" src="res/img/pca.png" id="pca"/>
                 <div class="text">
                     <h3>Comment est reconnu la valeur d'une carte?</h3>
                     <p>
@@ -150,7 +150,7 @@
 
             <div class="article">
                 <div class="text">
-                    <h3>Conséquence</h3>
+                    <h3>Conséquences</h3>
                     <p>Tous ces éléments ont su redonner à Pokémon sa flamme d'antan et a fait considérablement sa
                         nouvelle
                         renommée. Depuis ces coups de communication et leurs nouveaux business les prix se sont envolés
@@ -169,7 +169,7 @@
                         durant le premier
                         confinement mondial, on voit bien l'explosion du phénomène.</p>
                 </div>
-                <img alt="logo company" src="res/img/graphe.png" id="graph"/>
+                <img alt="graphique google trend" src="res/img/graphe.png" id="graph"/>
             </div>
             <div class="article single">
                 <div class="text">
