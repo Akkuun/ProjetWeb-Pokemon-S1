@@ -125,14 +125,12 @@
                     <h3>Comment fonctionne concrètement le Blockchain ?</h3>
                     <p>Tout Blockchain public fonctionne nécessairement avec une monnaie ou un token programmable. Le
                         Bitcoin en fait partie. Les transactions effectuées par les utilisateurs sont regroupées par
-                        blocs
-                        eux-mêmes validés par des nœuds réseau.
+                        blocs eux-mêmes validés par des nœuds réseau.
                         <br><br>
                         Une fois le bloc validé, la transaction devient visible pour l’utilisateur ainsi que pour le
                         l’ensemble du réseau. Le temps d’une transaction varie selon la cryptomonnaie qu’elle utilise.
-                        On
-                        compte une dizaine de minutes pour le Bitcoin tandis que d’autres monnaies telles que l’Ethereum
-                        sont transférées en quelques secondes.</p>
+                        On compte une dizaine de minutes pour le Bitcoin tandis que d’autres monnaies telles que
+                        l’Ethereum sont transférées en quelques secondes.</p>
                     <br><br>
                 </div>
             </div>
@@ -196,10 +194,10 @@
                     <p>
                         <em>
                             [5]
-                            T. Samir, « Marché de l’art : Sotheby’s s’ouvre aux cryptomonnaies », Les Echos,
+                            T. Samir, « Marché de l’art : Sotheby’s s’ouvre aux cryptomonnaies », Les Echos,
                             08-mai-2021.
                             [Online]. Disponible sur:
-                            https://www.lesechos.fr/industrie-services/services-conseils/marche-de-lart-sothebys-souvre-aux-cryptomonnaies-1313582.
+                            https://www.lesechos.fr/industrie-services/services-conseils/marche-de-lart-sothebys-souvre-aux-cryptomonnaies-1313582
                             [Consulté le: 28-oct-2021]
                             <br><br>
                             La crise sanitaire du covid a offert de belle perspective pour les nouvelles cryptomonnaies
