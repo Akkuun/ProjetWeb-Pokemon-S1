@@ -40,7 +40,7 @@
             </div>
 
             <div class="article">
-                <img alt="" src="res/img/sorare_logo.jpg"/>
+                <img alt="Logo de Sorare" src="res/img/sorare_logo.jpg"/>
                 <div class="text">
                     <h3>
                         Qu’est-ce que Sorare ?
@@ -58,7 +58,7 @@
             </div>
 
             <div class="article single">
-                <img alt="" src="res/img/sorare_club.jpg" id="photo"/>
+                <img alt="Club de Sorare" src="res/img/sorare_club.jpg" id="photo"/>
                 <div class="text">
                     <h3>Comment cela fonctionne-t-il ?</h3>
                     <p>
@@ -95,8 +95,7 @@
             <div class="article">
                 <div class="text">
                     <h3>De l’art ? </h3>
-                    <p>
-                        Suite à la pandémie de 2019, beaucoup de personnes se sont retrouvées à devoir passer plus
+                    <p>Suite à la pandémie de 2019, beaucoup de personnes se sont retrouvées à devoir passer plus
                         de temps sur leur ordinateur ou leur smartphone. Ce jeu, mélangeant à la fois le football et les
                         enchères, n’est donc pas passé totalement inaperçu en cette période. D’après la plateforme <a
                                 href="#source_1_2"> NonFungible.com[2]</a>, la vente d’œuvre numérique vendue par le
@@ -107,7 +106,7 @@
                         <br><br>
                     </p>
                 </div>
-                <img alt="" src="res/img/sorare_stat.png"/>
+                <img alt="Statistiques de Sorare" src="res/img/sorare_stat.png"/>
             </div>
 
             <div class="article">
@@ -120,7 +119,7 @@
                         <br><br>
                     </p>
                 </div>
-                <img alt="" src="res/img/sorare_griezmann.png"/>
+                <img alt="Profile d'Antoine Griezmann sur Sorare" src="res/img/sorare_griezmann.png"/>
                 <div class="text">
                     <p>
                         Tout cela permet à la carte de faire fluctuer son prix lors de ses ventes et de ses matchs. Lors
@@ -164,7 +163,7 @@
                 <div class="text">
                     <h3>Bibliographie :</h3>
                     <p>
-                        <i>
+                        <em>
                             <a href="https://sorareclub.com/le-guide-ultime-pour-tout-connaitre-de-sorare-data/?utm_source=pocket_mylist"
                                target="_blank" id="source_1_1">
                                 [1]
@@ -182,7 +181,7 @@
                                 https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0
                                 [Consulté le: 28-oct-2021]<br>
                             </a>
-                        </i>
+                        </em>
                     </p>
                 </div>
             </div>
