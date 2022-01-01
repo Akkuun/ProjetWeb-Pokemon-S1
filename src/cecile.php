@@ -169,17 +169,13 @@
                                 [1]
                                 sorareclub@gmail.com, « Le Guide Ultime pour tout connaître de Sorare Data »,
                                 SORARECLUB,
-                                25-juin-2021. [Online]. Disponible sur:
-                                https://sorareclub.com/le-guide-ultime-pour-tout-connaitre-de-sorare-data/?utm_source=pocket_mylist
-                                [Consulté le : 28-oct-2021]<br>
+                                25-juin-2021. [Online].
                             </a>
                             <br><br>
                             <a href="https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0"
                                target="_blank" id="source_1_2">
                                 [3]
-                                sorare, « Sorare », NonFungible, 25-juin-2021. [Online]. Disponible sur:
-                                https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0
-                                [Consulté le: 28-oct-2021]<br>
+                                sorare, « Sorare », NonFungible, 25-juin-2021. [Online].
                             </a>
                         </em>
                     </p>

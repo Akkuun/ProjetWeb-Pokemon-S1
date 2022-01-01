@@ -145,8 +145,8 @@
                         et la
                         meilleure offre qui lui a été proposée ont été la somme de 2.5 millions de dollars.
                         <br><br>
-                        Depuis le début du mois de mars 2021, le marché des NFT prend une ampleur extrême avec certaines
-                        œuvres vendues jusqu’à une valeur de plus de 6 millions de dollars.</p>
+                         Depuis le début du mois de mars 2021, le marché des NFT prend une ampleur extrême avec certaines
+                       <a href="#4_1"> œuvres vendues jusqu’à une valeur de plus de 6 millions de dollars.[5]</a></p>
                     <br><br>
                 </div>
                 <img src="res/img/first_tweet.jpg" alt="Premier tweet de Twitter"/>
@@ -194,22 +194,18 @@
                 <div class="text">
                     <h3>Bilbiographie</h3>
                     <p>
-                        <em>
-                            [5]
-                            T. Samir, « Marché de l’art : Sotheby’s s’ouvre aux cryptomonnaies », Les Echos,
-                            08-mai-2021.
-                            [Online]. Disponible sur:
-                            https://www.lesechos.fr/industrie-services/services-conseils/marche-de-lart-sothebys-souvre-aux-cryptomonnaies-1313582.
-                            [Consulté le: 28-oct-2021]
-                            <br><br>
-                            La crise sanitaire du covid a offert de belle perspective pour les nouvelles cryptomonnaies
-                            Les gens se sont beaucoup plus tournés vers d’autre moyen de gagner de l’argent depuis chez
-                            soi, notamment avec les NFT. Les œuvres sont désormais numériques avec un nombre de
-                            transfert hallucinant. Les revendeurs sont partout dans le monde et font de nombreux
-                            transferts ce qui fait forcément grimper le prix des œuvres en flèche, ces vendeurs font
-                            partie intégrante du marché car ils influent directement sur les offres et demandes et donc
-                            des prix.
-                        </em>
+
+
+
+                            <em>
+                                <a id="4_1"  target="_blank" href="https://www.numerama.com/politique/693780-que-sont-les-nft-et-pourquoi-acheter-un-tweet-25-millions-de-dollars.html">
+                                [5]
+                                    A. Gayte, «Que sont les NFT, et pourquoi acheter un tweet 2,5 millions de dollars ?», Numérama 08-mars-2021
+
+
+                                </a>
+                            </em>
+
                     </p>
                 </div>
             </div>

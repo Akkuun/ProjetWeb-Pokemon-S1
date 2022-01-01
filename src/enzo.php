@@ -206,16 +206,8 @@
                                id="source_1_1">
                                 [4]
                                 G. Amandine, « Comment fixer le prix d’une œuvre ? », ART TOTALe, 18-déc-2015. [Online].
-                                Disponible sur : https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/.
-                                [Consulté le :
-                                28-oct-2021]
-                                <br>
-                                Les cartes Pokémon sont devenues désormais des monnaies électroniques échangeables, mais
-                                n’oublions pas qu’une œuvre d’art (une carte Pokémon en est une) est estimé suivant
-                                différents
-                                critères. Si cette dernière avait une grande valeur de base alors sa valeur en
-                                cryptomonnaies
-                                augmenterait aussi.
+
+
                             </a>
                         </em>
                     </p>
