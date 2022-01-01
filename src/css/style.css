@@ -511,8 +511,11 @@ Extras
     height: 50%;
     width: 50%;
 }
-a:visited { color: black; }
 
-a{
+a:visited {
+    color: black;
+}
+
+a {
     color: black;
 }
