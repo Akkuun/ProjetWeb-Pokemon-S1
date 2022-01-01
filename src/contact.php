@@ -75,7 +75,7 @@
             </div>
         </form>
     </div>
-    <div style="height: 220px"></div>
+    <div style="height: 32px"></div>
     <?php include("top_button.html"); ?>
 </main>
 <footer>

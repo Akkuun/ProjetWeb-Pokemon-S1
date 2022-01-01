@@ -66,7 +66,7 @@
             </ul>
         </div>
     </div>
-    <div style="height: 221px"></div>
+    <div style="height: 120px"></div>
     <?php include("top_button.html"); ?>
 </main>
 <footer>
