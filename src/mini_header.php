@@ -24,7 +24,7 @@
                 </div>
                 <div>
                     <a href="mathis.php">
-                        <div>Le marché des cartes pokémons</div>
+                        <div>Les cartes Pokémons</div>
                     </a>
                 </div>
                 <div>
