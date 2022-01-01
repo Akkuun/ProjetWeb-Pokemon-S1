@@ -473,10 +473,20 @@ Medias
         width: 380px;
         height: auto;
     }
+
+    .formulary > form > div input {
+        width: 256px;
+        margin: 4px 2px;
+        padding: 8px 16px;
+    }
 }
 
 @media screen and (min-width: 900px) {
-
+    .formulary > form > div input {
+        width: 512px;
+        margin: 8px 4px;
+        padding: 16px 32px;
+    }
 }
 
 @media screen and (max-width: 790px) {
@@ -503,10 +513,20 @@ Medias
     #mini_header > h1 {
         font-size: 17px;
     }
+
+    .formulary > form > div input {
+        width: 128px;
+        margin: 2px 1px;
+        padding: 4px 8px;
+    }
 }
 
 @media screen and (min-width: 660px) {
-
+    .formulary > form > div input {
+        width: 256px;
+        margin: 4px 2px;
+        padding: 8px 16px;
+    }
 }
 
 /*
