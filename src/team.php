@@ -22,48 +22,46 @@
     <div class="team">
         <div>
             <h4>Enzo Martinez</h4>
-            <img src="res/img/enzo.gif" alt="Enzo"/>
+            <img src="res/img/enzo.gif" alt="Enzo Martinez"/>
             <ul>
-                <li>Recherches</li>
+                <li>Recherches sur la controverse</li>
                 <li>Mise en forme HTML</li>
-                <li>Rédaction</li>
+                <li>Rédaction textes</li>
             </ul>
         </div>
 
         <div>
             <h4>Cécile Burille</h4>
-            <img src="res/img/cécile.webp" alt="Enzo"/>
+            <img src="res/img/cécile.webp" alt="Cécille Burille"/>
             <ul>
-                <li>Recherches</li>
-                <li>Rédaction</li>
-
+                <li>Recherches sur la controverse</li>
+                <li>Stylisation Website</li>
+                <li>Rédaction des textes</li>
             </ul>
         </div>
 
         <div>
             <h4>Mathis Duban</h4>
-            <img src="res/img/mathis.webp" alt="Enzo"/>
+            <img src="res/img/mathis.webp" alt="Mathis Duban"/>
             <ul>
-                <li>Développement d'animations Javascript</li>
-                <li>Stylisation Website</li>
                 <li>Mise en place de l'organisation du groupe</li>
                 <li>Mise en forme HTML</li>
                 <li>Stylisation CSS</li>
-                <li>Gestion Responsive Design</li>
-
+                <li>Développement d'animations Javascript</li>
+                <li>Responsive Design</li>
+                <li>Déploiement sur Serveur</li>
             </ul>
         </div>
         
         <div>
             <h4>Eliott Barbet</h4>
-            <img src="res/img/eliott.png" alt="Enzo"/>
+            <img src="res/img/eliott.png" alt="Eliott Barbet"/>
             <ul>
                 <li>Organisation de groupe GitHub</li>
+                <li>Mise en forme HTML</li>
                 <li>Stylisation CSS</li>
                 <li>Développement d'animations Javascript</li>
-                <li>Stylisation Website</li>
-                <li>Gestion Responsive Design</li>
-
+                <li>Responsive Design</li>
             </ul>
         </div>
     </div>

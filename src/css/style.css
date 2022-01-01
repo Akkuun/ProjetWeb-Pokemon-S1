@@ -277,6 +277,7 @@ Main
     flex-direction: row;
     align-content: center;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     background-color: white;
     border: black 2px outset;
     border-radius: 16px 32px;
