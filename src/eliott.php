@@ -54,15 +54,13 @@
                 <div class="text">
                     <h3>Qui est à derrière l’industrie de la cryptomonnaie ?</h3>
                     <p>Ce sont des développeurs, connus ou anonymes, qui sont à l’origine de l’existence des
-                        cryptomonnaies
-                        et technologies mise en œuvre autour des cryptomonnaies. Ces mêmes personnes s’occupent de la
-                        sécurité des transactions et de certaines règles dans certains cas spécifiques.
+                        cryptomonnaies et technologies mise en œuvre autour des cryptomonnaies. Ces mêmes personnes
+                        s’occupent de la sécurité des transactions et de certaines règles dans certains cas spécifiques.
                         <br><br>
                         En réalité, développer une cryptomonnaie est bien moins compliqué que ce que l’on pourrait
-                        penser.
-                        Il suffit d’un ordinateur et un développeur peut concevoir une nouvelle monnaie informatique en
-                        quelques heures. Il ne manque plus qu’à l’intégrer au Blockchain et cette nouvelle cryptomonnaie
-                        peut potentiellement rentrer dans le jeu.</p>
+                        penser. Il suffit d’un ordinateur et un développeur peut concevoir une nouvelle monnaie
+                        informatique en quelques heures. Il ne manque plus qu’à l’intégrer au Blockchain et cette
+                        nouvelle cryptomonnaie peut potentiellement rentrer dans le jeu.</p>
                     <br><br>
                 </div>
             </div>
@@ -92,16 +90,14 @@
                 <div class="text">
                     <h3>Qu’est-ce que le Blockchain ?</h3>
                     <p>Le Blockchain est une géante base de données très sécurisée permettant de stocker et d’échanger
-                        de la
-                        valeur sur internet sans intermédiaire centralisé. Elle contient tout l’historique de tous les
-                        échanges effectués entre ses utilisateurs depuis son déploiement jusqu’à aujourd’hui. Le
-                        Blockchain
-                        est connu pour être le moteur et le cœur de l’industrie des cryptomonnaies dans le monde.
+                        de la valeur sur internet sans intermédiaire centralisé. Elle contient tout l’historique de tous
+                        les échanges effectués entre ses utilisateurs depuis son déploiement jusqu’à aujourd’hui. Le
+                        Blockchain est connu pour être le moteur et le cœur de l’industrie des cryptomonnaies dans le
+                        monde.
                         <br><br>
                         On peut dire que le Blockchain est une sorte de grand livre comptable public, anonyme et surtout
                         infalsifiable. Tout ce qu’il se passe autour de ce monstre est sauvegardé à l’intérieur, là où
-                        rien
-                        ne peut être effacé. Ainsi la contrefaçon se voit impuissante.</p>
+                        rien ne peut être effacé. Ainsi la contrefaçon se voit impuissante.</p>
                     <br><br>
                 </div>
                 <img src="res/img/blockchain.jpg" alt="Blockchain"/>
@@ -111,10 +107,9 @@
                 <div class="text">
                     <h3>Comment est né le Blockchain ?</h3>
                     <p>Le Blockchain a fait sa première apparition en 2008 avec la première monnaie numérique populaire
-                        de
-                        l’époque, le Bitcoin. Ces deux inventions ont été construites ensemble pour fonctionner
-                        ensemble. En
-                        revanche, le Blockchain supporte un nombre important de cryptomonnaies désormais.</p>
+                        de l’époque, le Bitcoin. Ces deux inventions ont été construites ensemble pour fonctionner
+                        ensemble. En revanche, le Blockchain supporte un nombre important de cryptomonnaies
+                        désormais.</p>
                     <br><br>
                 </div>
             </div>
