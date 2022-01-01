@@ -57,7 +57,9 @@
                     </label>
                 </div>
             </div>
-            <input id="submit" type="submit">
+            <div>
+                <input id="submit" type="submit">
+            </div>
         </form>
     </div>
     <div style="height: 512px"></div>

@@ -22,7 +22,7 @@
                     <div>Le marché des cartes pokémons</div>
                 </a>
                 <a href="cecile.php">
-                    <div>Cécile</div>
+                    <div>Du papier au numérique</div>
                 </a>
                 <a href="eliott.php">
                     <div>Les crytomonaies</div>

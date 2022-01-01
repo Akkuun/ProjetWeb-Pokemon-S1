@@ -303,10 +303,6 @@ Main
     height: 128px;
 }
 
-#content {
-    width: 71%;
-}
-
 #up {
     position: fixed;
     background-color: white;
@@ -372,6 +368,10 @@ Formulary
 .formulary > form > div {
     display: flex;
     flex-direction: row;
+}
+
+.formulary > form > div:last-child {
+    justify-content: center;
 }
 
 .formulary > form > div > div {

@@ -84,9 +84,11 @@
             </div>
 
             <div class="article">
-                <div class="text">
+                <div>
                     <h3>Les statues : </h3>
                     <img alt="" src="res/img/statut.png" id="statut"/>
+                </div>
+                <div class="text">
                     <p>
                         Voici un <b>cheval de bronze</b> vendu au prix de 12 260 euros.<br><br>
                         Son prix peut être expliqué par sa <b>taille</b>, le <b>matériau utilisé</b> pour son <b>sculptage</b>

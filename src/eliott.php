@@ -24,10 +24,8 @@
                         monnaies ont été déployées telles que le DigiCash, le CyperCash ou encore l’E-Gold.
                         <br><br>
                         Les cryptomonnaies ont été popularisées grâce à l’apparition du Bitcoin et par son créateur
-                        Satoshi
-                        Nakamoto en octobre 2008. Il a également publié un livre expliquant de manière concise le
-                        fonctionnement du
-                        Bitcoin.</p>
+                        Satoshi Nakamoto en octobre 2008. Il a également publié un livre expliquant de manière concise
+                        le fonctionnement du Bitcoin.</p>
                     <br><br>
                 </div>
             </div>
@@ -43,8 +41,8 @@
                         Ce type de monnaie utilise la technologie du <a href="#a-blockchain">Blockchain</a> à pour
                         transférer des fonds sur Internet. En revanche, les cryptomonnaies possédant une valeur trop
                         volatile, ne sont pas reconnu par le gouvernement français, car elles peuvent du jour au
-                        lendemain
-                        valoir des millions et à l’inverse, équivaloir à seulement quelques centimes d’euros.</p>
+                        lendemain valoir des millions et à l’inverse, équivaloir à seulement quelques centimes d’euros.
+                    </p>
                     <br><br>
                 </div>
                 <img src="res/img/bitcoin.jpg" alt="Bitcoin">
