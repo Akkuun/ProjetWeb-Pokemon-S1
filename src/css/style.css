@@ -228,8 +228,7 @@ Main
     align-items: center;
     justify-content: space-around;
     font-family: "Calibri", sans-serif;
-    /*background-color: white;*/
-    background-color: #DFFDFD;
+    background-color: rgb(255, 250, 250);
     border: #444 4px groove;
     border-radius: 24px 48px;
     font-size: 17px;
@@ -278,7 +277,7 @@ Main
     align-content: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    background-color: white;
+    background-color: rgb(255, 250, 250);
     border: black 2px outset;
     border-radius: 16px 32px;
     font-family: "Calibri", sans-serif;
