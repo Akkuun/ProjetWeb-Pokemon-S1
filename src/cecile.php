@@ -98,7 +98,7 @@
                     <p>Suite à la pandémie de 2019, beaucoup de personnes se sont retrouvées à devoir passer plus
                         de temps sur leur ordinateur ou leur smartphone. Ce jeu, mélangeant à la fois le football et les
                         enchères, n’est donc pas passé totalement inaperçu en cette période. D’après la plateforme <a
-                                href="#source_1_2"> NonFungible.com[2]</a>, la vente d’œuvre numérique vendue par le
+                                href="#source_1_2"> NonFungible.com[3]</a>, la vente d’œuvre numérique vendue par le
                         biais des cryptomonnaies a très largement augmenté par rapport aux années passées. En 2018, le
                         volume total de vente effectué en cryptomonnaie était en moyenne de 2146 tandis qu’en 2019 cette
                         valeur s’est élevée à 32 084 ! Le fait que de nombreux acteurs arrivent jour après jour dans ce
@@ -176,7 +176,7 @@
                             <br><br>
                             <a href="https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0"
                                target="_blank" id="source_1_2">
-                                [2]
+                                [3]
                                 sorare, « Sorare », NonFungible, 25-juin-2021. [Online]. Disponible sur:
                                 https://nonfungible.com/market/history/sorare?filter=nftTicker%3DSOR&filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0
                                 [Consulté le: 28-oct-2021]<br>
