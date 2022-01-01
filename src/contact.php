@@ -22,49 +22,56 @@
     <div class="formulary">
         <form action="">
             <div>
-                <div>
-                    <div>Nom</div>
-                    <div>Prénom</div>
-                    <div>Email</div>
-                    <div>Téléphone</div>
-                    <div>Organisation</div>
-                    <div>Commentaire (Optionel)</div>
-                </div>
-                <div>
-                    <label>
-                        <input type="text" placeholder="Nom">
-                    </label>
-
-                    <label>
-                        <input type="text" placeholder="Prénom">
-                    </label>
-
-                    <label>
-                        <input type="email" placeholder="x@xxx.xx" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
-                               required/>
-                    </label>
-
-                    <label>
-                        <input type="tel" name="phone" placeholder="xx xx xx xx xx"
-                               pattern="[0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}" required>
-                    </label>
-
-                    <label>
-                        <select name="orga">
-                            <option value="">-- Sélectionner votre organisation --</option>
-                            <option value="particulier">particulier</option>
-                            <option value="entreprise">entreprise</option>
-                            <option value="académie">académie</option>
-                        </select>
-                    </label>
-
-                    <label>
-                        <input type="text" placeholder="Entrer votre message ici">
-                    </label>
-                </div>
+                <div>Nom</div>
+                <label>
+                    <input type="text" placeholder="Nom">
+                </label>
             </div>
+
             <div>
-                <input id="submit" type="submit">
+                <div>Prénom</div>
+                <label>
+                    <input type="text" placeholder="Prénom">
+                </label>
+            </div>
+
+            <div>
+                <div>Email</div>
+                <label>
+                    <input type="email" placeholder="x@xxx.xx" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+                           required/>
+                </label>
+            </div>
+
+            <div>
+                <div>Téléphone</div>
+                <label>
+                    <input type="tel" name="phone" placeholder="xx xx xx xx xx"
+                           pattern="[0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}" required>
+                </label>
+            </div>
+
+            <div>
+                <div>Organisation</div>
+                <label>
+                    <select name="orga">
+                        <option value="">-- Sélectionner votre organisation --</option>
+                        <option value="particulier">particulier</option>
+                        <option value="entreprise">entreprise</option>
+                        <option value="académie">académie</option>
+                    </select>
+                </label>
+            </div>
+
+            <div>
+                <div>Commentaire (Optionel)</div>
+                <label>
+                    <input type="text" placeholder="Entrer votre message ici">
+                </label>
+            </div>
+
+            <div id="submit">
+                <input type="submit">
             </div>
         </form>
     </div>

@@ -360,12 +360,12 @@ Formulary
 }
 
 .formulary input {
-    width: 512px;
+    width: 100%;
 }
 
-#submit {
-    width: auto;
-    padding: 8px;
+.formulary > form {
+    width: 90%;
+    padding: 32px 5%;
 }
 
 .formulary > form > div {
@@ -373,27 +373,25 @@ Formulary
     flex-direction: row;
 }
 
+.formulary > form > div * {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    flex-basis: 0;
+    padding: 8px 5%;
+}
+
 .formulary > form > div:last-child {
     justify-content: center;
 }
 
-.formulary > form > div > div {
-    display: flex;
-    flex-direction: column;
-    padding: 16px 32px;
+#submit {
+    width: 30%;
+    margin: 32px auto;
 }
 
-.formulary > form > div > div > * {
-    margin: 8px 4px;
-}
-
-.formulary > form > div > div:first-child > * {
-    margin: 11px 4px 8px 4px;
-}
-
-.formulary > form > div > div:last-child > label:last-child > input {
-    max-width: 512px;
-    height: 128px;
+#submit > input {
+    padding: 16px;
 }
 
 /*
@@ -473,20 +471,10 @@ Medias
         width: 380px;
         height: auto;
     }
-
-    .formulary > form > div input {
-        width: 256px;
-        margin: 4px 2px;
-        padding: 8px 16px;
-    }
 }
 
 @media screen and (min-width: 900px) {
-    .formulary > form > div input {
-        width: 512px;
-        margin: 8px 4px;
-        padding: 16px 32px;
-    }
+
 }
 
 @media screen and (max-width: 790px) {
@@ -513,20 +501,10 @@ Medias
     #mini_header > h1 {
         font-size: 17px;
     }
-
-    .formulary > form > div input {
-        width: 128px;
-        margin: 2px 1px;
-        padding: 4px 8px;
-    }
 }
 
 @media screen and (min-width: 660px) {
-    .formulary > form > div input {
-        width: 256px;
-        margin: 4px 2px;
-        padding: 8px 16px;
-    }
+
 }
 
 /*

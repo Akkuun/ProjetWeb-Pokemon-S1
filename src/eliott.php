@@ -145,8 +145,8 @@
                         et la
                         meilleure offre qui lui a été proposée ont été la somme de 2.5 millions de dollars.
                         <br><br>
-                         Depuis le début du mois de mars 2021, le marché des NFT prend une ampleur extrême avec certaines
-                       <a href="#4_1"> œuvres vendues jusqu’à une valeur de plus de 6 millions de dollars.[5]</a></p>
+                        Depuis le début du mois de mars 2021, le marché des NFT prend une ampleur extrême avec certaines
+                        <a href="#4_1"> œuvres vendues jusqu’à une valeur de plus de 6 millions de dollars.[5]</a></p>
                     <br><br>
                 </div>
                 <img src="res/img/first_tweet.jpg" alt="Premier tweet de Twitter"/>
@@ -194,18 +194,14 @@
                 <div class="text">
                     <h3>Bilbiographie</h3>
                     <p>
-
-
-
-                            <em>
-                                <a id="4_1"  target="_blank" href="https://www.numerama.com/politique/693780-que-sont-les-nft-et-pourquoi-acheter-un-tweet-25-millions-de-dollars.html">
+                        <em>
+                            <a id="4_1" target="_blank"
+                               href="https://www.numerama.com/politique/693780-que-sont-les-nft-et-pourquoi-acheter-un-tweet-25-millions-de-dollars.html">
                                 [5]
-                                    A. Gayte, «Que sont les NFT, et pourquoi acheter un tweet 2,5 millions de dollars ?», Numérama 08-mars-2021
-
-
-                                </a>
-                            </em>
-
+                                A. Gayte, «Que sont les NFT, et pourquoi acheter un tweet 2,5 millions de dollars ?»,
+                                Numérama 08-mars-2021
+                            </a>
+                        </em>
                     </p>
                 </div>
             </div>

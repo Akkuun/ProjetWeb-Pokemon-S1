@@ -171,7 +171,7 @@ function toggleMenu() {
 }
 
 function inputAnimation() {
-    $(".formulary > form > div > div > label > input").focus(function() {
+    $(".formulary > form > div > label > input").focus(function() {
         $(this)
             .css("background-color", "rgba(255, 255, 0, .35)")
             .css("transition-duration", ".35s");
