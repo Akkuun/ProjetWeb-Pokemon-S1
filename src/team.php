@@ -62,6 +62,7 @@
                 <li>Stylisation CSS</li>
                 <li>Développement d'animations Javascript</li>
                 <li>Responsive Design</li>
+                <li>Développement PHP</li>
             </ul>
         </div>
     </div>
